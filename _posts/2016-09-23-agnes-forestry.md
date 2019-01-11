@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Agnes and the School of Forestry"
+author: sal
+categories: [ Agnes ]
+image: assets/images/forestry.jpg
+---
+Each Saturday in the early 1900s, the small town of Waynesboro, Pennsylvania, was greeted with an unusual sight: a group of young men, riding through town on their horses, on break from the Pennsylvania State Forest Academy in nearby Mont Alto. "The young girls would be sitting on their front porches, dressed in their best, and waiting for the foresters to arrive," [Forrest H. Dutlinger](https://en.wikipedia.org/wiki/Forrest_H._Duttlinger_Natural_Area), an Academy alumnus and Pennsylvania forester, later recalled. But, "nothing much happened when they did. The group chatted with girls they knew or rode aimlessly around town. Sometimes, as they were leaving, they would pull on the reins until their horses plunged and reared, fire their pistols into the air, yell, 'Whoopee!' and gallop off toward the academy." (Thomas, p. 485)
+
+Did Agnes sit on her East Third Street porch, watching the foresters-in-training ride through town? And was this weekly occurrence one of the reasons why, in 1916, at the age of 21, Agnes applied to attend the Forest Academy? Had she joined the Academy, she would have studied forestry and surveying; patrolled the state forests to prevent vandalism and fire, with a state-issued pistol at the ready; and worked in the woods, cutting fire lanes, raising seedlings, and taking inventory of the trees--all in preparation for a career in the State Department of Forestry.
+
+Instead, Agnes was refused entrance to the Forest Academy, she later related in an interview with the *Waynesboro Record Herald*, because she was a woman. ("Agnes Harbaugh... Spotlight on an Action Oriented Woman") The article cites Agnes' application to the school as an example of her early feminist leanings--well before the second wave of feminism in the mid-20th century. She did not allow gender expectations to limit her aspirations, even though forestry--despite its connection to the progressive conservation movement--was primarily a masculine profession.
+
+Forestry as a career emerged during the Progressive Era, as part of a growing conservation movement concerned with the destruction of finite natural resources. Theodore Roosevelt was a champion of conservationism; during his administration, he created the Forest Bureau (later the Forest Service) and established [150 national forests](https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm). Conservationists like Roosevelt were not motivated solely by a desire to conserve the beauty of nature, but to protect and sustain future economic development, as the President stated in a 1901 message to Congress: "Forest protection is not an end of itself; it is a means to increase and sustain the resources of our country and the industries which depend upon them." (McGerr, p. 166)
+
+In Pennsylvania, a movement to preserve the state's forests was sparked, in part, through the efforts of women. "Impelled by the increasing destruction of the noble forests of Pennsylvania," a group of women in Philadelphia were moved to "concerted action in the way of forest preservation and the replanting of waste lands, in order to supply the timber for the absolute needs of the near future." (Shepper, p. 4) The women organized a public meeting, and their efforts led to the formation of the Pennsylvania Forestry Association.
+
+As the conservation movement took hold, and the state continued to purchase lands for forestry purposes, some expressed a need for "men" who were trained to care for the land. In 1901, Dr. Joseph T. Rothrock, the "father of Pennsylvania forestry," outlined his plan for a school that would "guarantee to the State in the promptest and most certain manner, and without any pecuniary risk to the Commonwealth, a body of trained foresters who will be intimately acquainted not only with forestry principles, but with the ground upon which these principles are to be applied." (Clepper, p. 13) The [Pennsylvania State Forest Academy](https://en.wikipedia.org/wiki/Penn_State_Mont_Alto#Pennsylvania_State_Forest_Academy) was established in May 1903.
+
+The book [Forestry Education in Pennsylvania](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068568198;view=1up;seq=23), edited by Henry Clepper, an Academy alumnus, provides a detailed description of the early years of the school. The Academy was a three-year program; each student received a scholarship, and, starting with the class of 1909, had to serve three years in the state after completing the program. The year before Agnes applied, admission requirements changed. In addition to completing a rigorous entrance exam, the applicants had to complete six weeks of field training in the state forests. The program appears to have been quite competitive, admitting only small numbers of students in the early years.
+
+No sources that I have read document an official rule against women at the school. Clepper's history does state that the class of 1925, which registered in September 1921, did include a woman, "the wife of a member of the class of 1922. Although she successfully completed the first year, she did not return. She was the first and last of the female students." (Clepper, p. 22-23) Five years after Agnes' application, a woman *was* allowed to attend the school--although the caveat that she was the spouse of another student points to the power of circumstance, rather than a more open admission policy.
+
+Men continued to dominate the forestry profession for decades. In 1969, the first woman received an M.S. in forest resources from Penn State, but it was not even until 1984 that a woman was hired by the Pennsylvania Bureau of Forestry. (Gerhold, p. 100)
+
+Agnes is known in our family as someone who was not afraid to break the rules, and her application to the Pennsylvania State Forest Academy is yet another example. With her application, she challenged the expectations of what a woman *should* and *could* do at that time. How she reacted after the rejection is also telling of her character; not allowing the decision to stifle her educational ambitions, the next year, she entered Penn State, where she studied horticulture and, after raising three children, embarked on a long and exciting career--even if it did not involve wielding pistols against vandals and battling forest fires.
+
+§
+
+*Note*: The *Waynesboro Record Herald* interview states that Agnes was refused admission to "Penn State's School of Forestry at Mont Alto." In 1916, there were two Pennsylvania institutions for forestry education: the Pennsylvania State Forest Academy in Mont Alto and Penn State's [Department of Forestry](https://www.libraries.psu.edu/psul/digital/forestry.html) in State College. The two schools merged in 1929. Because the school referenced in the article was located in Mont Alto, which was near Waynesboro, my educated guess is that Agnes would have applied to the Forest Academy, rather than Penn State, and I have written this post under that assumption. The *Record Herald* article, written decades later, names Penn State as the institution sponsoring this program, which was correct at the time the article appeared in print, but not at the time when Agnes applied.
+
+*Photo*: The Pennsylvania State Forest Academy Class of 1908 in front of Wiestling Hall. [Credit: Penn State](https://www.libraries.psu.edu/psul/digital/forestry.html). Licensed under a [CC BY-NC-ND 2.0 license](https://creativecommons.org/licenses/by-nc-nd/2.0/). No changes were made to this image. According to Penn State, when the photo was developed, a ghostly figure appeared in the background, observing the figures on horseback. Can you find it?
+
+**Works Referenced**
+
+"Agnes Harbaugh... Spotlight on an Action-Oriented Woman." *Waynesboro Record Herald*. 1975.
+
+Clepper, Henry Edward. [*Forestry Education in Pennsylvania*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015068568198;view=1up;seq=23). University Park (PA): Penn State-Mont Alto Forestry Alumni Association, 1957.
+
+Gerhold, Henry D. [*A Century of Forest Resources Education at Penn State: Serving Our Forests, Waters, Wildlife, and Wood Industries*](https://books.google.com/books?id=Ys1muh3jqXsC&pg=PA270&lpg=PA270&dq=pennsylvania+state+forestry+department+female+students&source=bl&ots=5f-Q_RnnDJ&sig=gCWXVLBlTEKF8DTXvrJy-NAo5_c&hl=en&sa=X&ved=0ahUKEwjl4JH73oPPAhUCPj4KHYDqC8YQ6AEIPzAG#v=onepage&q&f=false). University Park (PA): Pennsylvania State University Press, 2007.
+
+McGerr, Michael. *A Fierce Discontent: The Rise and Fall of the Progressive Movement in America, 1870-1920.* New York: Free Press, 2003.
+
+Thomas, Elizabeth H. ["Student Life at the Pennsylvania State Forest Academy, 1905-1910."](http://www.imakenews.com/psaanews/e_article003238407.cfm?x=b11,0,w) Kittochtinny History Society, n.d.

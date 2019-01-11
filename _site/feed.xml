@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>A storytelling project about memory, identity, and family.</description>
+    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
+    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Jan 2019 16:28:02 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Jan 2019 16:28:02 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Powerful things you can do with the Markdown editor</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyll/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Agnes at State College</title>
+        <description>&lt;p&gt;After Agnes was refused entry to the Pennsylvania State Forestry Academy, she didn’t give up on her ambitions for higher education. In the fall of 1917, she was one of five “farmerettes” studying agriculture at State College (now Pennsylvania State University). “Five girls with back-to-the-farm hankerings, are studying scientific farming in the two-year agricultural course at the Pennsylvania State College,” the &lt;em&gt;Indiana Gazette&lt;/em&gt; reported. Even though the United States was by then at war, the newspaper account claimed that this had “nothing to do whatever in their choice of a profession. They simply wanted to learn how to feed chickens, hoe beans, milk cows and plough. Later they expect to use their knowledge in managing their own farms.” &lt;/p&gt;
+
+&lt;p&gt;State College’s two-year course in agriculture was, according to the 1917-18 course catalog, “designed to meet the needs of young men with farm experience who are not prepared to enter the four-year courses in agriculture.” (91) The emphasis on young men was not entirely true; in 1912, the course had been formally opened to women–albeit with modification. Students could take courses in the domestic arts, while also developing knowledge in scientific agriculture, with the ultimate goal of being able to “make a living on the farm.” “Country girls” who graduate “find on their return home that their interests are elsewhere. They have been unfitted rather than fitted for life in the country,” wrote Margaret B. MacDonald in &lt;em&gt;The Penn State Farmer&lt;/em&gt;. By allowing women to gain a more well-rounded knowledge of agriculture, “the object of the course is to make successful, resourceful, happy women of farmers’ wives and daughters.” (201)&lt;/p&gt;
+
+&lt;p&gt;Both the newspaper account and Penn State’s own publication attributed the goals of the two-year agriculture program and the women who attended it to developing the knowledge and skills to work on farms, often as wives and daughters of farmers. For someone as independent as Agnes, who had at one point aspired to the male-dominated profession of forestry, would this have been her goal?&lt;/p&gt;
+
+&lt;p&gt;Agnes’s ultimate goal may in fact have been to further her education beyond the initial two-year program, as she subsequently enrolled in the four-year course in Horticulture at Penn State. This program included courses on plant breeding, floriculture, vegetable gardening, landscape gardening, and entomology, as well as a summer practicum, consisting of “six weeks of survey work in commercial truck gardens, florists’ establishments, nurseries, orchards, greenhouses, and small fruit plantations.” (126) Classes, as described in the course catalog, included recitation and practicum hours, emphasizing the practical application of the studies the students were undertaking.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;border: 0px;&quot; src=&quot;https://books.google.com/books?id=3KRIAQAAMAAJ&amp;amp;pg=PA124&amp;amp;output=embed&quot; width=&quot;500&quot; height=&quot;900&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Apart from her studies, Agnes appears to have been an active student at State College. She was a member of the Press Club, Crab Apple Club, Current Events Club, and Penn State Grange, and was active in athletics. She played hockey and basketball, received class numerals for her high scoring, and even served as president of the Women’s Athletic Association during her senior year.&lt;/p&gt;
+
+&lt;p&gt;One of Agnes’s more amusing activities involved serving on a committee that banned “improper dancing,” such as “cheek-to-cheek” or “toddling,” at house parties and college dances. The committee was “instructed to demonstrate before the Women’s Student Association just what is and what is not acceptable as proper form on the dance floor. This group will meet at the close of the Christmas vacation and their recommendations will be law.”&lt;/p&gt;
+
+&lt;p&gt;When Agnes graduated from State College in 1922, she became the first in the Newman family to earn a college degree. As the youngest child, she likely benefitted from changing attitudes about higher education for women. It is somewhat surprising, however, that only a few months after her graduation, Agnes married a farmer, fulfilling Penn State’s goal for her to become a “successful, resourceful, happy” farmer’s wife.&lt;/p&gt;
+
+&lt;p&gt;Agnes and her husband, Milton Lightwood, performed agricultural work at her sister Meg’s settlement house and then started their own, ultimately unsuccessful, fruit farm in Maryland. Agnes’s horticultural education would continue, however, as she later attended the Ambler School of Horticulture for Women, and after her divorce from Milton in the 1940s, she finally embarked on the professional career in horticulture that she had initially prepared for during her time at State College.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Works Referenced&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Five Girls Study Farming.” &lt;em&gt;The Indiana Gazette&lt;/em&gt; (Indiana, Pennsylvania), 9 October 1917, p. 9.&lt;/p&gt;
+
+&lt;p&gt;“Improper Dancing Ban.” &lt;em&gt;The Reading Times&lt;/em&gt; (Reading, Pennsylvania), 18 December 1920, p. 3.&lt;/p&gt;
+
+&lt;p&gt;MacDonald, Margaret B. &lt;a href=&quot;https://books.google.com/books?id=S8HNAAAAMAAJ&amp;amp;pg=PA200&amp;amp;lpg=PA200&amp;amp;dq=penn+state+two+years+agriculture+course+women&amp;amp;source=bl&amp;amp;ots=yuf_OYnI54&amp;amp;sig=AGP1jhz7u5CTKBVO0k0OMPYjy0E&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwi98NvTzZfTAhWKx4MKHe1eCyUQ6AEIUDAJ#v=onepage&amp;amp;q=penn%20state%20two%20years%20agriculture%20course%20women&amp;amp;f=false&quot;&gt;“Education of Girls for Life on the Farm.”&lt;/a&gt; &lt;em&gt;The Penn State Farmer&lt;/em&gt;, 1912, p. 200-201.&lt;/p&gt;
+
+&lt;p&gt;Pennsylvania State College. &lt;a href=&quot;https://books.google.com/books?id=nadIAQAAMAAJ&amp;amp;printsec=frontcover&amp;amp;source=gbs_ge_summary_r&amp;amp;cad=0#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;&lt;em&gt;The Pennsylvania State College Bulletin: General Catalogue 1917-1918&lt;/em&gt;.&lt;/a&gt; State College, 1918.&lt;/p&gt;
+
+&lt;p&gt;Pennsylvania State College. &lt;a href=&quot;https://books.google.com/books?id=3KRIAQAAMAAJ&amp;amp;source=gbs_navlinks_s&quot;&gt;&lt;em&gt;The Pennsylvania State College Bulletin: General Catalogue 1919-1920&lt;/em&gt;.&lt;/a&gt; State College, 1920.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;http://digicoll.library.wisc.edu/WebZ/FETCH?sessionid=01-59303-358532979:recno=1:resultset=1:format=F:next=html/nffull.html:bad=error/badfetch.html&amp;amp;entityimageSize=x&quot;&gt;“Farming Country”&lt;/a&gt; by G. M. Schwartz. Courtesy of the University of Wisconsin Digital Collections.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2017/04/23/agnes-state-college.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2017/04/23/agnes-state-college.html</guid>
+        
+        
+        <category>Agnes</category>
+        
+      </item>
+    
+      <item>
+        <title>Meg and the Pure Americans</title>
+        <description>&lt;p&gt;When I first started researching the years that Meg spent in rural western Maryland in the early 1920s, I knew next to nothing–only the short description written on her resume: “Part time worker, Frederick County, Md. School Health Inspection. Survey of farm tenancy for U. S. Dept. of Agriculture. Co-worker, Beulah Weldon Burhoe. Volunteer and experimental services. Expenses only.”&lt;/p&gt;
+
+&lt;p&gt;I was searching Meg’s name in historical newspapers when I came across a letter Beulah Weldon had written to her Barnard alumni magazine describing the “model farmstead” that she and Meg had started in Friends Creek, and this led me to more articles detailing their work at their settlement house, including a nearly full-page 1922 &lt;em&gt;Baltimore Sun&lt;/em&gt; article called “Maryland Has Forgotten Colonies of Anglo Saxons.” This article provided the most detailed accounting that I had seen thus far in my research, describing the history of the settlement and Meg and Beulah’s activities on Friends Creek–much of which I recounted in a &lt;a href=&quot;/mediumish-theme-jekyll_posts/2017-03-21-meg-experimental-services.md&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As I was reading this article, one line struck me as soon as I read it: “The Daughters of the American Revolution, who are greatly desirous of fostering patriotism and pure Americanism have contributed largely.” “Pure Americanism”? What did that mean?&lt;/p&gt;
+
+&lt;p&gt;I read on and found the answer, in the words of my own great-great aunt.&lt;/p&gt;
+
+&lt;p&gt;“‘My principal motive in leaving New York and coming here was to help the country children, the native Americana, to get a better share of what is due them,’ says Miss Newman. ‘In New York there are fine schools, which are almost swamped by the children of recent immigrants, eager to learn, but remote regions such as this are permitting the children, many of whom are direct descendants of Revolutionary war heroes, to grow up in ignorance.’”&lt;/p&gt;
+
+&lt;p&gt;In her comments, Meg voices anti-immigrant sentiments that were common in the early 1920s, and that led to laws restricting immigration, which placed quotas on the number of immigrants who could enter the U.S. from various countries. The laws favored Anglo-Saxon immigrants over those from Southern and Eastern Europe and Asia, in part to establish a specific American identity represented by “native-born” Americans.&lt;/p&gt;
+
+&lt;p&gt;Meg explained how her experience working with immigrants led her to want to help those who were “native-born.” Children in the cities, she thought, had opportunities to hear music, buy prepared food and ready-made dresses, and go to art galleries, whereas in rural areas ”the only music, if any, will be a fiddle playing ‘Sourwood Mountain,’ [and] the children have no music lessons. The girls will have to cook all their lives, but there is no one to show them the value of proper preparation of food. They will always have to make their own clothes, but there are no sewing lessons. The boys are taught no trades, and if they do not get disgusted and move away there is no hope for them to do anything else but day labor, with little profitable work at that.”&lt;/p&gt;
+
+&lt;p&gt;Meg also expressed contempt for some immigrants she knew who “had no spark of attachment whatever for this country and were simply using it for what they could get out of it, notwithstanding all that was being done for them.” Thinking of the children in rural areas, Meg said, she became “heartsick” and “determined to cast my lot with them and do what I could to remedy the injustice.”&lt;/p&gt;
+
+&lt;p&gt;Reading these words was very upsetting to me. Meg is certainly expressing ideas that were shared by many at that time, including some settlement workers, who despite serving immigrants could not overcome their own prejudices. But where was the liberal, enlightened aunt I had heard about for so many years? Of all the aunts, I think of Meg as the most progressive. She marched for women’s suffrage, and after women got the vote, became an ardent Democrat who would get into fights with my much more conservative great-grandfather. I once heard a story that she took in an unwed pregnant woman and helped her get on her feet. She devoted her life to nursing others. When I first discovered that she had started her own rural settlement house, I had envisioned her as an idealistic, self-sacrificing revolutionary, but now that image has been complicated.&lt;/p&gt;
+
+&lt;p&gt;Especially since I am descended from the very same people Meg considered to be taking what was not rightfully theirs, and not “pure Americans,” solely because of where they came from. My maternal great-grandparents immigrated from southern Italy and Sicily to the United States in the early 1900s, settling in New Haven, Connecticut. They worked in factories, learned English, and assimilated into American society. I have often felt a tension in my heritage; reading Meg’s words, I am more aware than ever of the distance that existed between my great-grandfather Samuel Newman, the president of a tool company in Waynesboro, Pennsylvania, and my great-grandfather Erasmo Brancato, a barber in New Haven, Connecticut.&lt;/p&gt;
+
+&lt;p&gt;We all make choices in our lives, and even when making the choice of devoting your life to service, you must make a choice of who you will serve. Which cause is the most worthy? Who needs your help the most? Meg saw a need in rural Maryland, and during the five years she served there, she undoubtedly did a great deal of good. When Meg first arrived at Friends Creek, only 12.5% of the children were at a normal weight; three years later, that number was at 80%. She organized visits from doctors at the school and transportation to the local hospital and to dentists for children who needed it. She and Beulah also expanded their settlement family, taking in local children who needed their help. Are these achievements tarnished in some way by the reasons Meg pursued them?&lt;/p&gt;
+
+&lt;p&gt;I struggle with how to reconcile Meg’s good works with her prejudiced views. I admire her for her dedication to the people of Friends Creek, and for her courage in living an unconventional life that was different from the standard formula set for women. But I am also disappointed in her inability to surpass the dominant thinking of her age. Ultimately, I am understanding that yes, in many ways, Meg was a woman who was &lt;em&gt;ahead&lt;/em&gt; of her time, but she was also very much &lt;em&gt;of&lt;/em&gt; her time.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;https://calisphere.org/item/ark:/13030/ft5r29p0d6/&quot;&gt;“Immigrants”&lt;/a&gt; by Johan Hagemeyer. From the Bancroft Library, University of California, Berkeley.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/meg/2017/04/04/meg-pure-americans.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/meg/2017/04/04/meg-pure-americans.html</guid>
+        
+        
+        <category>Meg</category>
+        
+      </item>
+    
+      <item>
+        <title>Meg and Experimental Services</title>
+        <description>&lt;p&gt;On September 2, 1919, a rural schoolhouse opened its doors. The Friends’ Creek School, way up in the mountains of Western Maryland, had been closed for two years–teachers were hard to come by, especially for remote spots such as Friends’ Creek–but now it was the site of an experiment in settlement living, undertaken by two enterprising women.&lt;/p&gt;
+
+&lt;p&gt;Beulah Weldon, a twenty-six-year-old only a few years out of Barnard College, stood at the front of the class. With her was Meg, who would use her nursing skills to improve the health and wellbeing of Beulah’s students, as well as that of the local community. Beulah and Meg’s venture was part of the settlement house movement; fueled mainly by young people seeking an outlet for putting into practice their progressive ideals, settlement houses and schools were established in many urban neighborhoods and isolated rural communities in the early 1900s. (Meg’s sister Eve was active in rural settlements in Kentucky.) These reform institutions provided education, health care, and other social services to their communities, grounding themselves in the idea that to understand and help others, one had to “settle” among them.&lt;/p&gt;
+
+&lt;p&gt;Before their move to the western Maryland mountains, Meg and Beulah had been active in settlement work in a much different community–New York City. They had met at the Henry Street Settlement House, a well-known institution founded by Lillian Wald in 1893. After she graduated from Barnard College in 1915, Beulah started working for the Committee for Vocational Schools at Henry Street. Meg started at Henry Street a few years before, in 1912, working as a staff nurse with Henry Street’s Visiting Nurse Service before becoming nurse-in-charge at the settlement’s convalescent and vacation homes in Montclair, New Jersey, and Grand View, New York. In 1919, the two decided to leave Henry Street and take their settlement mission to tiny, isolated Friends’ Creek, Maryland.&lt;/p&gt;
+
+&lt;p&gt;The Frederick (Maryland) &lt;em&gt;Daily News&lt;/em&gt; described Meg and Beulah’s “unique living arrangements,” which the newspaper described as ”like stories one reads of isolated western communities in pioneer days”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A small shack has been fitted up, as convenient to the school house as possible, and here Miss Weldon and Miss Newman will make their home. “Convenient to the school house” is a misleading phrase, however, as the shack is at least 3 or 4 miles distant, and teacher and nurse will have to drive to school every day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(“School Open First Time in Two Years.” &lt;em&gt;The Daily News&lt;/em&gt; (Frederick, Maryland), 27 August 1919, p. 4.) The house came with 53 acres of land, as well as a pig pen, and over the next few years, they continued to make improvements, acquiring cows, a horse, chickens, and a flock of sheep, and adding a screened-in porch (a rarity in that area, the newspaper account claimed).&lt;/p&gt;
+
+&lt;p&gt;In the vein of most rural settlement houses, Beulah and Meg set out to provide education, health care, and general services to the local community. After they had been at Friends’ Creek for a year, Beulah wrote a letter to her alumni journal, &lt;em&gt;The Barnard Bulletin&lt;/em&gt;, sharing the progress that they had made: “I have taught the district school during the winter and Miss Newman has given health lessons, taught sewing, knitting and handwork, acted as school attendance officer and school nurse, and has made nursing visits when necessary,” Beulah wrote. “We succeeded in getting an appropriation from the Frederick County School Board to cover part of her salary. We have opened our home, which is a dilapidated little mountain house, as a recreation room. We are aiming to have a model farmstead and to influence our neighborhood through informal contacts made in our daily living.” (“Letters.” &lt;em&gt;The Barnard Bulletin&lt;/em&gt;, 30 April 1920, p. 1.)&lt;/p&gt;
+
+&lt;p&gt;The idea Beulah expressed of influencing their local community through “informal contacts made in our daily living” gets at the heart of the settlement movement and reflects a sentiment expressed by settlement pioneer Jane Addams, the founder of Chicago’s Hull House. Settlement residents, Addams wrote in her essay “The Subjective Necessity for Social Settlements,” “must be content to live quietly side by side with their neighbors until they grow into a sense of relationship and mutual interests.”&lt;/p&gt;
+
+&lt;p&gt;Meg and Beulah appear to have cultivated those relationships Addams noted in her essay. The “Friends’ Creek settlement,” as it was known, attracted support from the State Federation of Women’s Clubs, Rotary Club, and Daughters of the American Revolution. I also found mention of Beulah making several speeches on behalf of their work, bringing to mind the advocacy and fundraising that Eve did for the Hindman and Pine Mountain Settlement Schools, and the question, did Meg ever call upon her sister for support with her own settlement?&lt;/p&gt;
+
+&lt;p&gt;One sister, at least, but not the one you’d expect. According to the &lt;em&gt;Baltimore Sun&lt;/em&gt;, in the summer of 1922, Meg’s sister Agnes, and her husband, Milton Lightwood, planned to join the Friends’ Creek settlement. Milton was going to be spending the summer “trying to instill into the natives a knowledge of better methods of farming. Part of his program is the establishment of a model hennery at the settlement. Even if the Misses Weldon and Newman had the technical training and the physical strength, they could do no good in agricultural instruction, for the men of the community would scorn to learn such things from a woman.” (“Maryland Has Forgotten Colonies of Anglo Saxons.”)&lt;/p&gt;
+
+&lt;p&gt;The model hennery and agricultural instruction are examples of the kind of experimentation that happened at Friends’ Creek, although the entire settlement was truly an experiment–Meg even described these years of work experience on her resume as “experimental services.” But experimentation was at the heart of the settlement movement. Jane Addams described the settlement as “an experimental effort to aid in the solution of the social and industrial problems which are engendered by the modern conditions of life in a great city.” The settlement, she said, must be flexible, quick to adapt, and ready to “change its methods as its environment may demand. It must be open to conviction, and have a deep and abiding sense of tolerance. It must be hospitable and ready for experiment.”&lt;/p&gt;
+
+&lt;p&gt;Reading about the work that Meg and Beulah achieved at Friends’ Creek, as well as the idea of a settlement as a sort of “incubator” for new ideas, I am struck by the ingenuity and resiliency displayed by settlement workers, who were constantly observing new problems and trying out new ways to fix them. To take on this work, to move to an isolated community and live in a small, dilapidated shack, to dedicate their lives to improving the lives of others, required strength of purpose on the part of Meg and Beulah.&lt;/p&gt;
+
+&lt;p&gt;So what was this purpose? Why did they choose to devote themselves to “experimental services”?&lt;/p&gt;
+
+&lt;p&gt;The answer is complicated, and in many ways, a little painful for me. Meg and Beulah were certainly moved by the real need in the rural Maryland community, but their move to Maryland was also a rejection of the community that they were serving in New York City. The “deep and abiding sense of tolerance” Jane Addams valued in settlements? They didn’t have that. When this story continues, I’ll share what led Meg and Beulah to leave Henry Street, and how my perception of Meg, her life and work, is changing.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;http://collections.lib.uwm.edu/cdm/ref/collection/agsnorth/id/12346&quot;&gt;“United States, view of farm field in Flintstone, Maryland”&lt;/a&gt; by Robert S. Platt. Courtesy of the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/meg/2017/03/21/meg-experimental-services.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/meg/2017/03/21/meg-experimental-services.html</guid>
+        
+        
+        <category>Meg</category>
+        
+      </item>
+    
+      <item>
+        <title>Who Was Alan Gilmour?</title>
+        <description>&lt;p&gt;One of the biggest mysteries I have uncovered in my research lies in a 1925 passenger list. On January 7, 1925, a ship called the S.S. Venezuela sailed from Corinto, Nicaragua, on its way to Los Angeles, California. On board appeared to be Eve’s husband, Alan Gilmour. All of the details matched up, I noted: Family name: Gilmour. Given name: Alan P. Age: 54. Sex: M. Married or single: M[arried]. Date and place of birth: July 1st, 1870 - Henderson, Ky. But the next column held something surprising: a handwritten note that said: “Died in transit (suicide).”&lt;/p&gt;
+
+&lt;p&gt;I reread the note several times. Could I have misread the handwriting? Was this the correct person? I checked the personal details, then verified the date of his death–January 14, 1925–which matched with this record.&lt;/p&gt;
+
+&lt;p&gt;I had never heard the unusual circumstances of Eve’s husband’s death–in fact I had heard very little about her husband at all. Alan Gilmour was only a minor character in my story of Aunt Eve’s life, noteworthy only for their Lincoln-inspired meeting at the Pine Mountain Settlement School. Their brief eight years of marriage were one of the least remarkable things that could be listed in Eve’s biography–which also includes a degree from Columbia, a lengthy career in social work, and a stint in North Africa with the Red Cross during World War II.&lt;/p&gt;
+
+&lt;p&gt;And while my feminist soul cringes at the idea of defining women by the men in their lives, I do believe that the partners we choose to spend our days with are a reflection of our values and goals, even if for just a period in our lives. I decided to find out as much as I could about Alan Gilmour, in the hopes that understanding Eve’s choice of a life partner would tell me even more about her.&lt;/p&gt;
+
+&lt;p&gt;Timeline JS?&lt;/p&gt;
+
+&lt;p&gt;Unlike Eve, Alan was born into a wealthy, aristocratic family; his father, Allan Gilmour, was a Scottish tobacco merchant, and his mother, Virginia Pegram, a Kentucky native whose mother was from the French West Indies. Although Alan was born in Kentucky, most of his childhood appears to have been spent in the seaside resort town of Helensburgh, Scotland, before he returned to the U.S. to study law. His privileged background was very different from what Eve experienced as a child; her father Jacob was a miller who was constantly moving the family from place to place and also, according to family stories, even left his wife and children behind in Pennsylvania to seek his fortune out west.&lt;/p&gt;
+
+&lt;p&gt;The constant impulse to seek out the next best thing is something Alan shared with his father-in-law. Although he mainly worked as a lawyer in Lexington, over the course of fifteen years, he moved four times–from Lexington to Alaska, to Detroit, back to Lexington, and finally to Los Angeles, California. He also dabbled in various careers, including automobile sales, local government, citrus farming, and real estate. I wonder how Eve viewed Alan’s inability to settle in one place–she certainly did not make a habit of doing so during her life, either. Later, as a social worker, she traveled around the country; her resume includes stints as a probation officer in New Mexico; with the Works Progress Administration in Oklahoma and Mississippi; as executive director of the Volunteer Placement Bureau in Pasadena, California; and as a social worker for city relief in Chicago. Perhaps their shared desire to seek out new opportunities and experiences was part of what drew them together.&lt;/p&gt;
+
+&lt;p&gt;Eve and her husband also shared a fearlessness and singlemindedness of purpose–think of a young Eve marching into congressmen’s offices in Washington, D.C., to rally support for the Pine Mountain Settlement School. As a young man, Alan showed his daring and impetuous nature, when, on Christmas night 1897, he ran off to offer his legal services to Cubans fighting the Cuban War of Independence (later the Spanish American War). The &lt;em&gt;Detroit Free Press&lt;/em&gt; reported that Alan left his boarding house, “stating that he should not return and, after a hasty visit to his cousin, W. P. Hamilton, of 56 Davenport street, left for the east.” In subsequent letters to his cousin and the law firm where he was employed, Alan announced his intention “to offer his personal services to the Cuban patriots. Mr. Gilmour was a member of the Naval Reserves,” the newspaper report recounted, “and was known as plucky and daring.” (“For Cuba Libre.” &lt;em&gt;The Detroit Free Press&lt;/em&gt;, 1 January 1897, p. 10)&lt;/p&gt;
+
+&lt;p&gt;Embedded portrait from Google Books?&lt;/p&gt;
+
+&lt;p&gt;Portrait of Alan P. Gilmour from the Year Book of the Society, Sons of the Revolution, in the Commonwealth of Kentucky, 1894-1913, and Catalogue of Military Land Warrants Granted by the Commonwealth of Virginia to Soldiers and Sailors of the Revolution, edited by Samuel M. Wilson, Society, Sons of the Revolution, 1913.&lt;/p&gt;
+
+&lt;p&gt;Throughout his life, Alan was not afraid to speak out or offend others, as documented in his many letters to the editor published in newspapers and periodicals from around the country. He called out the &lt;em&gt;Kentucky Evening Gazette&lt;/em&gt; for what he saw as their attempt to “make political capital” out of election day violence, praised the &lt;em&gt;Washington Post&lt;/em&gt; for its anti-British stance in 1915, opposed Woodrow Wilson and the League of Nations, and, in a memorable letter from 1901, came out against the United States’ support of the British during the Second Boer War. “It makes an American blush,” Alan wrote, “to think how his country is daily assisting the British in crushing out two little republics, battling for their independence, as we did over 100 years ago.” He went on to say that in 1900, he met the then-president of South Africa, Paul Kruger, in Holland, as well as the assistant secretary of state for foreign affairs of the Transvaal republic, who told him that the British army in South Africa would have been helpless without American supplies of fresh horses and mules. He urged the Detroit Transvaal League to start a movement or petition to stop the shipment of horses from the U.S., saying, “Surely the few paltry millions we make by the sale of such horses can not compensate us for the loss of our self-respect and national honor? And, as a nation, can we persist in such work–aiding and abetting farm burning, banishment, concentration camps and all–and retain our honor and self-respect? I think not.” (“From Free Press Readers.” &lt;em&gt;Detroit Free Press&lt;/em&gt;, 24 December 1901, p. 4.)&lt;/p&gt;
+
+&lt;p&gt;Alan’s penchant for writing also found a more literary mode of expression–poetry. Periodicals and newspapers from the early 1900s are peppered with his poems, and he was one of the original stockholders in the &lt;em&gt;Kentucky Magazine&lt;/em&gt;, a publication, as you may guess, focused on Kentucky. Although mostly unremarkable, his poetry has patriotic, nationalistic themes, focusing on elements of Kentucky history, such as &lt;em&gt;“The Naming of Lexington,”&lt;/em&gt; or his adopted home state of California, as in “Van Nuys, California.” Alan also expressed his political opinions through poetry; in 1919, his poem “Good Enough for Me” declared his opposition to what he termed the “hypocritical League of (Imperialistic) Nations.” “The good old Declaration / Is good enough for me,” he stated. As is “the good old Constitution … fashioned / As a guard for Liberty” and “the good old Monroe Doctrine.” (Gilmour, Alan Pegram. &lt;a href=&quot;https://books.google.com/books?id=UloxAQAAMAAJ&amp;amp;dq=%22alan%20pegram%20gilmour%22&amp;amp;pg=RA1-PA57#v=onepage&amp;amp;q=%22alan%20pegram%20gilmour%22&amp;amp;f=false&quot;&gt;“Good Enough.”&lt;/a&gt; &lt;em&gt;Harvey’s Weekly&lt;/em&gt;, 22 November 1919, p. 16.)&lt;/p&gt;
+
+&lt;p&gt;Google Embed&lt;/p&gt;
+
+&lt;p&gt;One of Alan’s more original creations came when he delivered a legal motion in the form of a poem. The poem talked about being excused from his wanderings from Lexington (he had just been in Alaska and Detroit for a number of years) and wanting to resume his work in the Lexington courts. “So with your kind permission, all / Once more I’ll try my fate, / In these legal halls of fair renown / Of Lexington, the Great!” According to Louisville’s &lt;em&gt;Courier-Journal&lt;/em&gt;, “Judge Kerr smilingly remarked that the motion was granted.” (“Legal Motion in Rhyme.” &lt;em&gt;The Courier-Journal&lt;/em&gt; [Louisville, KY], 1 December 1912, p. 7.)&lt;/p&gt;
+
+&lt;p&gt;This picture of Alan as a spirited, opinionated, aspiring creative partner for Eve is ultimately clouded by the mystery that surrounds his death.&lt;/p&gt;
+
+&lt;p&gt;There are hints that Alan was developing an interest in Latin America in the years before his death. In 1921, he traveled to Mexico on a trip sponsored by the Los Angeles Chamber of Commerce, as part of a group that included “some of the most prominent business men of southern California, and every industry of that district is represented in the party.” (“Los Angeles Men Here Tomorrow on Mexico Trip.” &lt;em&gt;Arizona Republic&lt;/em&gt;, 7 February 1921, p. 12.) In 1923, he hosted two men with ties to Latin America, one the former head of the Latin American Trade Bureau who was developing a steamship line between Los Angeles and the west coast of Mexico, and the other the consul in Los Angeles representing Colombia. (“Noted Men Visitors at Gilmour Home.” &lt;em&gt;The Van Nuys News&lt;/em&gt; [Van Nuys, CA], 28 August 1923, p. 3.) These connections, when combined with Alan’s demonstrated interest in seeking out new opportunities, might suggest that he was pursuing economic interests in Latin America.&lt;/p&gt;
+
+&lt;p&gt;Alan’s writings also show a lifelong engagement with the United States’ international activities, expressing his criticism of U.S. involvement in the Second Boer War and President Woodrow Wilson’s League of Nations. Could his political opinions on the U.S.’s interventions in Latin America have led him to Nicaragua in 1925? The United States had maintained a military presence in Nicaragua, dating from 1912, but in the same month that Alan sailed from the country, the U.S. announced that it would end its 13-year military presence there. Alan’s keen interest in foreign affairs may explain in part what led him to Nicaragua, but the mystery of his fatal voyage home remains and will likely never be fully resolved.&lt;/p&gt;
+
+&lt;p&gt;After Alan’s death, Eve found herself, at the age of 37, a widow. When she married Alan, Eve was a spirited, independent young woman, who had been seeking her own path in the world. With Alan, she had embarked on a life that was undoubtedly exciting, but at times, precarious and unstable. Yet neither this marriage, nor the manner of how it ended, defined her life. The same year that she was widowed, Eve moved back across the country to attend the New York School of Social Work, starting a new life defined in large part by her pioneering career.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/eve/2017/02/06/who-was-alan-gilmour.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/eve/2017/02/06/who-was-alan-gilmour.html</guid>
+        
+        
+        <category>Eve</category>
+        
+      </item>
+    
+      <item>
+        <title>Mary and the Riverside Library Service School</title>
+        <description>&lt;p&gt;In 1908, Joseph F. Daniels, librarian at the State Agricultural College Library in Fort Collins, Colorado, wrote an &lt;a href=&quot;https://books.google.com/books?id=AKlJAAAAYAAJ&amp;amp;lpg=PA173&amp;amp;dq=people%3A%20a%20modern%20emphasis%20in%20library%20training&amp;amp;pg=PA173#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;article&lt;/a&gt; for the &lt;em&gt;Library Journal&lt;/em&gt;. In it, he set out his vision for the training of librarians, stating:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is charged that an important aspect of training receives little attention, because the schools begin and end their courses of instruction with the book and its house (the “bookery,” as Mr. Hopkins calls it). And, while we cannot deny that books are fundamental in the idea of a library, we know that People are fundamental in the idea of service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Daniels criticized traditional library schools for what he saw as an overemphasis on theory, to the neglect of preparation for library work as a service to people. Library school students were trained to be “book servants,” receiving “technical training and efficiency,” which he deemed less important than “the development of the man or the woman who is to deal with the library and its People” (175-176).&lt;/p&gt;
+
+&lt;p&gt;Three years later, Daniels would put his philosophy toward library science education into action, starting a training school for librarians at the &lt;a href=&quot;https://www.riversideca.gov/library/about_history.asp&quot;&gt;Riverside Public Library&lt;/a&gt;: the &lt;a href=&quot;https://riversideca.gov/library/history_aids_libraryschool.asp&quot;&gt;Riverside Library Service School&lt;/a&gt;, its name reflecting its commitment to training librarians for service to the people.&lt;/p&gt;
+
+&lt;p&gt;It was at this unorthodox–often controversial–library school that Mary Ellen Newman received her training as a librarian.&lt;/p&gt;
+
+&lt;p&gt;§&lt;/p&gt;
+
+&lt;p&gt;As a newly minted librarian myself, I have a particular connection to Mary’s story. Three years ago, I was thinking seriously about a career change and settled upon librarianship. That decision was one that has changed my life and leads me to wonder why Mary made the same choice.&lt;/p&gt;
+
+&lt;p&gt;It appears at least that she had an early interest in books–one of the main reasons that drew (and continues to draw) people to the library profession. In 1954, she wrote a &lt;a href=&quot;http://www.jstor.org/stable/25694134?seq=1#page_scan_tab_contents&quot;&gt;letter&lt;/a&gt; to the &lt;em&gt;American Library Association Bulletin&lt;/em&gt;. “Long, long ago before we even had a public library in my home town of Waynesboro, Pennsylvania,” she wrote, “I belonged to a group of persons who met every fortnight to read and discuss books of great writers, devoting a winter to one author. Out of this developed ‘the Fortnightly Club’ which is still functioning in that town” (7).&lt;/p&gt;
+
+&lt;p&gt;Mary’s membership in the Fortnightly Club hints at a connection to books and reading that may have led her into librarianship, but it does not explain why, by 1930, she had moved across the country to Riverside, California, where she received her degree in library work from the Riverside Library Service School.&lt;/p&gt;
+
+&lt;p&gt;Mary’s decision to move to the west coast is even more puzzling because at the time, most of the prominent library schools were on the east coast. In fact, Joseph Daniels founded the Riverside Library Service School in part to provide another opportunity for west coasters to get library training without having to move to the east coast. “It has annoyed me a long time to see our young people go east for training when it seemed unnecessary and expensive,” he explained in a letter to California State Librarian James Gillis. “They may get something good for them in and out of school in the east, but I am afraid that they get some things that are not always good for library progress” (qtd. in Hansen 977).&lt;/p&gt;
+
+&lt;p&gt;While Mary’s east coast roots did not make her a likely Riverside student, in another respect, she was exactly the student that Daniels had envisioned when the school opened its doors in 1912. The first course offered at Riverside was a “short course,” aimed at those already working in libraries and/or those who had no formal education. Mary, though she had completed high school, had never gone to college, which was a requirement of many library schools at that time.&lt;/p&gt;
+
+&lt;p&gt;Daniels did not want to discriminate against those students without formal higher education, for practical reasons. &lt;a href=&quot;https://books.google.com/books?id=3LQUAAAAYAAJ&amp;amp;pg=PA19&amp;amp;dq=what+i+believe+about+library+schools+daniels&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwifp-LL5qvQAhXL64MKHXjKBYcQ6AEIOjAD#v=onepage&amp;amp;q=what%20i%20believe%20about%20library%20schools%20daniels&amp;amp;f=false&quot;&gt;He wrote in &lt;em&gt;Public Libraries&lt;/em&gt; in 1913&lt;/a&gt; that the opportunities were far different for prospective librarians without formal education. “I believe that there should be a chance for any physically fit candidate, without age limit or ‘educational’ test who desires a chance,” he wrote, but only those with at least two years of college could expect to make a larger income. Because there were more libraries that paid “little reward,” he went on, “it is quite necessary in order to help all, that schooling be offered to the lesser librarians and to those of little reward” (19). The Riverside Library Service School’s commitment to providing educational opportunities to all candidates for library work set it apart from many other library schools at that time.&lt;/p&gt;
+
+&lt;p&gt;Daniels’s school was also renowned–or perhaps notorious–for his unorthodox approach to library school curriculum. Namely, that there was none. In his &lt;a href=&quot;https://books.google.com/books?id=3LQUAAAAYAAJ&amp;amp;pg=PA19&amp;amp;dq=what+i+believe+about+library+schools+daniels&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwifp-LL5qvQAhXL64MKHXjKBYcQ6AEIOjAD#v=onepage&amp;amp;q=what%20i%20believe%20about%20library%20schools%20daniels&amp;amp;f=false&quot;&gt;1913 &lt;em&gt;Public Libraries&lt;/em&gt; article&lt;/a&gt;, he outlined eleven points on “What I believe about library schools,” starting with “A library school should be conducted in a library, or adjacent to a library where people are served every day. People are the real consideration in a library.” He proposed dividing students into groups and having them rotate through each department in the library, preparing weekly reports “of all work and study, by station and by hours and by subject matter.” There would be “no assigned reading whatever: Let them listen at lectures or hunt for it,” and lectures should be given “only when needed and then by notable experts who have something more than knowledge of subject matter” (18-19).&lt;/p&gt;
+
+&lt;p&gt;It appears that many of these ideas were put into practice at the Riverside Library Service School–to the consternation of many. Daniels’s approach to library education was criticized by many of his peers. One of the main sources of criticism was the Williamson Reports, reports evaluating library schools researched and written by Charles C. Williamson for the Carnegie Corporation.2&lt;/p&gt;
+
+&lt;p&gt;Williamson did not think much of the Riverside Library Service School. “Of the school itself there was little tangible evidence,” he wrote. “What I saw going on was not much more than apprentice, or a ‘learn by doing’ method, but yet I left Riverside feeling that a year spent in that environment, no matter what the character of the formal instruction, would be excellent preparation for service in small town and rural libraries” (212). He rejected the idea that a public library could provide professional education for librarians and advised that the school at Riverside close and “all the library interests of the state” be focused on other schools in Los Angeles and Berkeley (212).&lt;/p&gt;
+
+&lt;p&gt;Despite these opinions on the quality of its program, the Riverside Library Service School would graduate over 1,000 students over the course of its 30 years’ existence, until it was indefinitely “suspended” in 1943 because of World War II. The school would never receive its accreditation, or official recognition as a library science degree program, from the American Library Association, the professional organization of American librarians.&lt;/p&gt;
+
+&lt;p&gt;This didn’t hurt Mary’s chances at a library career, however. She went on from library school to work at the University of California at Riverside’s Citrus Experiment Station for thirty years. In this capacity, she contradicted both Daniels’s prediction of the career possibilities for “lesser librarians” and Williamson’s assessment that the Riverside Library Service School only prepared students for service in “small town and rural libraries.”&lt;/p&gt;
+
+&lt;p&gt;§&lt;/p&gt;
+
+&lt;p&gt;In many ways, Mary’s library science education, as so enthusiastically designed and espoused by Joseph Daniels, is the education that I didn’t find in library school itself, but the education that I think should be taught in library schools today. Over the two years I spent obtaining my degree, the people I learned the most from were not necessarily my professors, but my supervisors and colleagues who actively worked in libraries and were experts in their fields. My knowledge of the field came from reading blog posts, journal articles, and Twitter–readings I “hunted out,” rather than course lectures. And what truly prepared me to be a librarian was the immersive, hands-on experience of working in libraries and cultural heritage institutions–the practical training dismissed by Williamson as the “‘learn by doing’ method.”&lt;/p&gt;
+
+&lt;p&gt;Librarianship has changed dramatically in the decades since Mary attended library school, but the ideas and values that formed the foundation of the Riverside Library Service School are still relevant in library science education today–a commitment to service and a focus on the community of people who come to libraries every day. Daniels’s call for a shift from training in “bookery” to training in service strongly echoes current re-imaginings of libraries from storage units for books to spaces for learning and community building. Seeing these connections across time imbues in my own career a sense of continuity and history and ties me ever more closely to Mary.&lt;/p&gt;
+
+&lt;p&gt;1 Todd Dorsett’s &lt;a href=&quot;https://books.google.com/books?id=Ynx6jIfuU2YC&amp;amp;lpg=PA57&amp;amp;ots=M_0qvRfLGW&amp;amp;dq=fortnightly%20club%20waynesboro%20pennsylvania&amp;amp;pg=PA145#v=onepage&amp;amp;q=fortnightly%20club&amp;amp;f=false&quot;&gt;&lt;em&gt;Waynesboro As We Knew It&lt;/em&gt;&lt;/a&gt; describes the founding of the “Fortnightly Club,” attributing more than just reading to its activities. “A small group of local young ladies calling themselves the ‘Brownies’ took jaunts into the countryside, and camped at Mont Alto and the present Renfrew Museum and Park, which they christened ‘Camp Willow.’ They studied nature, wrote essays, and held entertainments” (145). One of the original “Brownies” was Mary R. Frantz, who was Mary’s first cousin, once removed. (Mary Frantz was Mary’s mother Emma Frantz’s first cousin–Mary Frantz’s father Benjamin Frantz and Emma’s father Samuel Frantz were brothers. Mary Frantz and Mary Newman were the same age, despite being in different generations.)&lt;/p&gt;
+
+&lt;p&gt;2 In 1919, the Carnegie Corporation enlisted Dr. Charles C. Williamson, Head of the Division of Economics and Sociology at the New York Public Library, to evaluate American library schools. As described in the foreword to the report, “all of the library schools in the United States were visited and carefully examined; the most expert opinions on the problem were analyzed and compared; and, finally, the use made of the product of these schools, together with the need and demand for more and better training, was subjected to as thorough a statistical study as the available material permitted” (v).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Works Referenced&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Daniels, J.F. &lt;a href=&quot;https://books.google.com/books?id=AKlJAAAAYAAJ&amp;amp;lpg=PA173&amp;amp;dq=people%3A%20a%20modern%20emphasis%20in%20library%20training&amp;amp;pg=PA173#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;“People: A modern emphasis in library training.”&lt;/a&gt; &lt;em&gt;Library Journal&lt;/em&gt;, vol. 33, 1908, pp. 173-176.&lt;/p&gt;
+
+&lt;p&gt;Daniels, J.F. &lt;a href=&quot;https://books.google.com/books?id=3LQUAAAAYAAJ&amp;amp;pg=PA19&amp;amp;dq=what+i+believe+about+library+schools+daniels&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwifp-LL5qvQAhXL64MKHXjKBYcQ6AEIOjAD#v=onepage&amp;amp;q=what%20i%20believe%20about%20library%20schools%20daniels&amp;amp;f=false&quot;&gt;“What I believe about library schools.”&lt;/a&gt; &lt;em&gt;Public Libraries&lt;/em&gt;, vol. 23, 1913, pp. 18-19.&lt;/p&gt;
+
+&lt;p&gt;Dorsett, Todd Andrew. &lt;a href=&quot;https://books.google.com/books?id=Ynx6jIfuU2YC&amp;amp;lpg=PA57&amp;amp;ots=M_0qvRfLGW&amp;amp;dq=fortnightly%20club%20waynesboro%20pennsylvania&amp;amp;pg=PA145#v=onepage&amp;amp;q=fortnightly%20club&amp;amp;f=false&quot;&gt;&lt;em&gt;Waynesboro As We Knew It&lt;/em&gt;.&lt;/a&gt; Antietam Historical Association, 2012.&lt;/p&gt;
+
+&lt;p&gt;Hansen, Debra Gold. &lt;a href=&quot;https://www.ideals.illinois.edu/bitstream/handle/2142/13710/Hansen_LT52_4.pdf&quot;&gt;“Personalizing Library Education, the California Connection: James Gillis, Everett Perry, and Joseph Daniels.”&lt;/a&gt; &lt;em&gt;Library Trends&lt;/em&gt;, vol. 52, no. 4, 2004, pp. 963-987.&lt;/p&gt;
+
+&lt;p&gt;Newman, Mary Ellen. &lt;a href=&quot;http://www.jstor.org/stable/25694134&quot;&gt;“Book Club.”&lt;/a&gt; &lt;em&gt;ALA Bulletin&lt;/em&gt;, vol. 48, no. 1, 1954, p. 7.&lt;/p&gt;
+
+&lt;p&gt;“Riverside Library Service School.” &lt;em&gt;City of Riverside&lt;/em&gt;, &lt;a href=&quot;https://riversideca.gov/library/history_aids_libraryschool.asp&quot;&gt;https://riversideca.gov/library/history_aids_libraryschool.asp&lt;/a&gt;. Accessed 15 December 2016.&lt;/p&gt;
+
+&lt;p&gt;Williamson, Charles C. “Training for Library Work: A Report Prepared for the Carnegie Corporation of New York.” &lt;em&gt;The Williamson Reports of 1921 and 1923.&lt;/em&gt; Scarecrow Press, 1971.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Header image: &lt;a href=&quot;http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll65/id/8546&quot;&gt;“Riverside’s Public Library, ca. 1910.”&lt;/a&gt; &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY&lt;/a&gt; University of Southern California Libraries and California Historical Society.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/mary/2016/12/15/mary-riverside-library-service-school.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/mary/2016/12/15/mary-riverside-library-service-school.html</guid>
+        
+        
+        <category>Mary</category>
+        
+      </item>
+    
+      <item>
+        <title>Eve's Last Year in Kentucky</title>
+        <description>&lt;p&gt;In two previous posts, I’ve shared the story of how Eve became active in the rural settlement school movement in Kentucky, serving as field secretary for both the Hindman Settlement School and the Pine Mountain Settlement School. Now, I’ll be telling the end of that story, of how, after several years of raising money and support for the work of progressive-minded women in the Kentucky mountains, Eve left Pine Mountain.&lt;/p&gt;
+
+&lt;p&gt;By 1915, the Pine Mountain Settlement School was well on its way to becoming a successful school and community center. New buildings were going up, more students were enrolling, and nursing and other community services were expanding.&lt;/p&gt;
+
+&lt;p&gt;Eve’s role at the school was expanding as well. In February of 1915, she was elected to Pine Mountain’s General Advisory Board. (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=12234&quot;&gt;Letter from Marguerite Butler, 2/24/1915&lt;/a&gt;) The board was a group of advisors, selected by the Executive Committee, which had “the power to direct and shape the policies of the school, to vote at all Board meetings, and to control the actions of the Board of Trustees.” (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=4873&quot;&gt;Board Report, January 3, 1914&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;![Letter from Marguerite Butler, 1915](/mediumish-theme-jekyllassets/images/letter.jpg&lt;/p&gt;
+
+&lt;p&gt;“Miss Newman was elected at the meeting a member of the board of the school.” “but_1915_01_026.jpg,” Marguerite Butler Letters, Pine Mountain Settlement School, Pine Mountain, KY. 2016 Oct. 10.&lt;/p&gt;
+
+&lt;p&gt;In 1915, Eve also took up the cause to have a road built from Pine Mountain to the nearest railroad. A &lt;em&gt;Louisville Courier-Journal&lt;/em&gt; article from April 20, 1915, related news of a meeting that took place between Eve and Road Commissioner R.C. Terrell “concerning State aid work in Harlan. The county failed to apply in time, and Miss Newman said she intends to urge the county officers to make their plans this year so as to take advantage of the State aid plan next year.” (“Harlan Woman Seeks State Aid for County,” &lt;em&gt;The Courier-Journal&lt;/em&gt;, April 21, 1915) (N.B. The road over Pine Mountain was not actually completed until 1940, according to a &lt;a href=&quot;https://pinemountainsettlement.net/?p=4736&quot;&gt;history of the “Laden Trail” published on the Pine Mountain Settlement School Collections website&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Despite Eve’s continued activities with Pine Mountain, by fall 1915, she was planning to leave the school, if only for a short time. In a letter dated early fall 1915, Marguerite Butler reported: “Miss Newman, the regular secretary, is leaving for a year’s study at Columbia.” (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=12266&quot;&gt;Letter from Marguerite Butler, early fall 1915&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;There is no mention of whether Eve intended to return to Pine Mountain after completing her studies, but, if so, her plans changed.&lt;/p&gt;
+
+&lt;p&gt;On December 31, 1915, Eve’s father, Jacob Newman, justice of the peace in Waynesboro, Pennsylvania, signed a marriage license application for Eve, then a 27-year-old student, and Alan Pegram Gilmour, a 45-year-old attorney from Lexington, Kentucky. They were married in Waynesboro on February 12, 1916.&lt;/p&gt;
+
+&lt;p&gt;I have always wondered how Eve met Alan Gilmour–an older man, established attorney, son of a wealthy Scottish tobacco merchant, captain in the Kentucky National Guard, and “prominent citizen”–according to the Louisville Courier-Journal. (The Courier-Journal, January 2, 1916). Some deep digging revealed that Alan practiced law in the same building as Charles Wilson, who sat on the Board of Trustees of the Pine Mountain Settlement School, but this was the only connection that I could find… until I stumbled upon a newspaper article that offered an answer to this mystery.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lincoln’s birthday anniversary on February 12 will be celebrated by Capt. Alan P. Gilmour, of this city, the well-known lecturer on ‘Abraham Lincoln,’ by his marriage on that day to Miss Eve Newman, the wedding to be held at the home of Miss Newman’s sister in Columbia, N.Y.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The marriage will be the direct result of a romance brought about through the subject of Lincoln. Last summer Miss Newman, whose home is in Waynesboro, Pa., was visiting Miss Katherine Pettet [sic] at the Pine Mountain School in Eastern Kentucky when Capt. Gilmour went over there to deliver his lecture on Abraham Lincoln at a Fourth of July celebration. He is an enthusiast on the subject and made the lecture so interesting and eloquent that Miss Newman, who was in the audience, became attracted by what he had to say, and, meeting later, Mr. Gilmour began to pay court and so is now preparing to carry out his plan of celebrating Lincoln’s birthday with this most important event of his life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(“Lincoln Lecture Won Her,” &lt;em&gt;The Courier Journal&lt;/em&gt;, January 31, 1916)&lt;/p&gt;
+
+&lt;p&gt;This entertaining account of their courtship leaves me with so many unanswered questions: How often did Alan make the arduous trek over the mountain from Lexington to “pay court”? If Eve and Alan were engaged by the end of the year, when did Eve leave Pine Mountain? And how much of an “enthusiast” of Lincoln was Alan?&lt;/p&gt;
+
+&lt;p&gt;The last question proved easiest to answer. Newspaper articles show that Alan Gilmour was indeed an enthusiast of Abraham Lincoln. At the Lexington Memorial Day services in 1913, he recited Lincoln’s Gettysburg Address. (&lt;em&gt;The Courier-Journal&lt;/em&gt;, May 26, 1913) He also offered a prize of “$5 in gold” to the Lincoln Model School student who gave the “best rendition of Lincoln’s Gettysburg speech” and presented to the school “a large, elegantly framed facsimilie [sic] in blue print of the tablets placed in all our national cemeteries, upon which are engraved the immortal address.” (&lt;em&gt;The Courier-Journal&lt;/em&gt;, October 10, 1913) A few years later, Alan would even publish an article on the “Patriotism of Lincoln” in &lt;em&gt;The Kentucky Magazine&lt;/em&gt;. (“The Kentucky Magazine for November,” &lt;em&gt;The Bourbon News&lt;/em&gt;, November 6, 1917)&lt;/p&gt;
+
+&lt;p&gt;The question of when Eve left her work at Pine Mountain is harder to figure out. In a letter dated Spring 1916, Marguerite Butler stated that Eve would be away until the end of April. (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=12143&quot;&gt;Letter from Marguerite Butler, Spring 1916&lt;/a&gt;) By that time, however, Eve was married and living in Lexington, Kentucky, with Alan. She may have continued to serve on the board for some time after that, but her documented engagements all appear to have been in Lexington, such as when she was elected president of the Civil League for the year of 1917. (“Mrs. Gilmour President,” &lt;em&gt;The Courier-Journal&lt;/em&gt;, December 8, 1916) A few years after that, Eve and Alan had left Kentucky behind for the west coast, settling in southern California, where Eve would remain for some time.&lt;/p&gt;
+
+&lt;p&gt;![Eve Newman and Alan Gilmour](/mediumish-theme-jekyllassets/images/eve-alan.jpg&lt;/p&gt;
+
+&lt;p&gt;Although perhaps no fixed relationship existed between Eve and Pine Mountain in the years that followed her move to California, the influence of the school was long-lasting. Her career in social work, her devotion to improving the lives of children, her strength and determination–all can be traced back to her time in the Kentucky mountains.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Post header image: Top of Pine Mountain. “nace_1_010a.jpg,” Dorothy Nace Photograph Album I Part I, Photographs, Pine Mountain Settlement School, Pine Mountain, KY. 2016 Oct. 10.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/eve/2016/10/10/eve-last-year-kentucky.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/eve/2016/10/10/eve-last-year-kentucky.html</guid>
+        
+        
+        <category>Eve</category>
+        
+      </item>
+    
+      <item>
+        <title>Agnes and the School of Forestry</title>
+        <description>&lt;p&gt;Each Saturday in the early 1900s, the small town of Waynesboro, Pennsylvania, was greeted with an unusual sight: a group of young men, riding through town on their horses, on break from the Pennsylvania State Forest Academy in nearby Mont Alto. “The young girls would be sitting on their front porches, dressed in their best, and waiting for the foresters to arrive,” &lt;a href=&quot;https://en.wikipedia.org/wiki/Forrest_H._Duttlinger_Natural_Area&quot;&gt;Forrest H. Dutlinger&lt;/a&gt;, an Academy alumnus and Pennsylvania forester, later recalled. But, “nothing much happened when they did. The group chatted with girls they knew or rode aimlessly around town. Sometimes, as they were leaving, they would pull on the reins until their horses plunged and reared, fire their pistols into the air, yell, ‘Whoopee!’ and gallop off toward the academy.” (Thomas, p. 485)&lt;/p&gt;
+
+&lt;p&gt;Did Agnes sit on her East Third Street porch, watching the foresters-in-training ride through town? And was this weekly occurrence one of the reasons why, in 1916, at the age of 21, Agnes applied to attend the Forest Academy? Had she joined the Academy, she would have studied forestry and surveying; patrolled the state forests to prevent vandalism and fire, with a state-issued pistol at the ready; and worked in the woods, cutting fire lanes, raising seedlings, and taking inventory of the trees–all in preparation for a career in the State Department of Forestry.&lt;/p&gt;
+
+&lt;p&gt;Instead, Agnes was refused entrance to the Forest Academy, she later related in an interview with the &lt;em&gt;Waynesboro Record Herald&lt;/em&gt;, because she was a woman. (“Agnes Harbaugh… Spotlight on an Action Oriented Woman”) The article cites Agnes’ application to the school as an example of her early feminist leanings–well before the second wave of feminism in the mid-20th century. She did not allow gender expectations to limit her aspirations, even though forestry–despite its connection to the progressive conservation movement–was primarily a masculine profession.&lt;/p&gt;
+
+&lt;p&gt;Forestry as a career emerged during the Progressive Era, as part of a growing conservation movement concerned with the destruction of finite natural resources. Theodore Roosevelt was a champion of conservationism; during his administration, he created the Forest Bureau (later the Forest Service) and established &lt;a href=&quot;https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm&quot;&gt;150 national forests&lt;/a&gt;. Conservationists like Roosevelt were not motivated solely by a desire to conserve the beauty of nature, but to protect and sustain future economic development, as the President stated in a 1901 message to Congress: “Forest protection is not an end of itself; it is a means to increase and sustain the resources of our country and the industries which depend upon them.” (McGerr, p. 166)&lt;/p&gt;
+
+&lt;p&gt;In Pennsylvania, a movement to preserve the state’s forests was sparked, in part, through the efforts of women. “Impelled by the increasing destruction of the noble forests of Pennsylvania,” a group of women in Philadelphia were moved to “concerted action in the way of forest preservation and the replanting of waste lands, in order to supply the timber for the absolute needs of the near future.” (Shepper, p. 4) The women organized a public meeting, and their efforts led to the formation of the Pennsylvania Forestry Association.&lt;/p&gt;
+
+&lt;p&gt;As the conservation movement took hold, and the state continued to purchase lands for forestry purposes, some expressed a need for “men” who were trained to care for the land. In 1901, Dr. Joseph T. Rothrock, the “father of Pennsylvania forestry,” outlined his plan for a school that would “guarantee to the State in the promptest and most certain manner, and without any pecuniary risk to the Commonwealth, a body of trained foresters who will be intimately acquainted not only with forestry principles, but with the ground upon which these principles are to be applied.” (Clepper, p. 13) The &lt;a href=&quot;https://en.wikipedia.org/wiki/Penn_State_Mont_Alto#Pennsylvania_State_Forest_Academy&quot;&gt;Pennsylvania State Forest Academy&lt;/a&gt; was established in May 1903.&lt;/p&gt;
+
+&lt;p&gt;The book &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015068568198;view=1up;seq=23&quot;&gt;Forestry Education in Pennsylvania&lt;/a&gt;, edited by Henry Clepper, an Academy alumnus, provides a detailed description of the early years of the school. The Academy was a three-year program; each student received a scholarship, and, starting with the class of 1909, had to serve three years in the state after completing the program. The year before Agnes applied, admission requirements changed. In addition to completing a rigorous entrance exam, the applicants had to complete six weeks of field training in the state forests. The program appears to have been quite competitive, admitting only small numbers of students in the early years.&lt;/p&gt;
+
+&lt;p&gt;No sources that I have read document an official rule against women at the school. Clepper’s history does state that the class of 1925, which registered in September 1921, did include a woman, “the wife of a member of the class of 1922. Although she successfully completed the first year, she did not return. She was the first and last of the female students.” (Clepper, p. 22-23) Five years after Agnes’ application, a woman &lt;em&gt;was&lt;/em&gt; allowed to attend the school–although the caveat that she was the spouse of another student points to the power of circumstance, rather than a more open admission policy.&lt;/p&gt;
+
+&lt;p&gt;Men continued to dominate the forestry profession for decades. In 1969, the first woman received an M.S. in forest resources from Penn State, but it was not even until 1984 that a woman was hired by the Pennsylvania Bureau of Forestry. (Gerhold, p. 100)&lt;/p&gt;
+
+&lt;p&gt;Agnes is known in our family as someone who was not afraid to break the rules, and her application to the Pennsylvania State Forest Academy is yet another example. With her application, she challenged the expectations of what a woman &lt;em&gt;should&lt;/em&gt; and &lt;em&gt;could&lt;/em&gt; do at that time. How she reacted after the rejection is also telling of her character; not allowing the decision to stifle her educational ambitions, the next year, she entered Penn State, where she studied horticulture and, after raising three children, embarked on a long and exciting career–even if it did not involve wielding pistols against vandals and battling forest fires.&lt;/p&gt;
+
+&lt;p&gt;§&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: The &lt;em&gt;Waynesboro Record Herald&lt;/em&gt; interview states that Agnes was refused admission to “Penn State’s School of Forestry at Mont Alto.” In 1916, there were two Pennsylvania institutions for forestry education: the Pennsylvania State Forest Academy in Mont Alto and Penn State’s &lt;a href=&quot;https://www.libraries.psu.edu/psul/digital/forestry.html&quot;&gt;Department of Forestry&lt;/a&gt; in State College. The two schools merged in 1929. Because the school referenced in the article was located in Mont Alto, which was near Waynesboro, my educated guess is that Agnes would have applied to the Forest Academy, rather than Penn State, and I have written this post under that assumption. The &lt;em&gt;Record Herald&lt;/em&gt; article, written decades later, names Penn State as the institution sponsoring this program, which was correct at the time the article appeared in print, but not at the time when Agnes applied.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Photo&lt;/em&gt;: The Pennsylvania State Forest Academy Class of 1908 in front of Wiestling Hall. &lt;a href=&quot;https://www.libraries.psu.edu/psul/digital/forestry.html&quot;&gt;Credit: Penn State&lt;/a&gt;. Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/2.0/&quot;&gt;CC BY-NC-ND 2.0 license&lt;/a&gt;. No changes were made to this image. According to Penn State, when the photo was developed, a ghostly figure appeared in the background, observing the figures on horseback. Can you find it?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Works Referenced&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Agnes Harbaugh… Spotlight on an Action-Oriented Woman.” &lt;em&gt;Waynesboro Record Herald&lt;/em&gt;. 1975.&lt;/p&gt;
+
+&lt;p&gt;Clepper, Henry Edward. &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015068568198;view=1up;seq=23&quot;&gt;&lt;em&gt;Forestry Education in Pennsylvania&lt;/em&gt;&lt;/a&gt;. University Park (PA): Penn State-Mont Alto Forestry Alumni Association, 1957.&lt;/p&gt;
+
+&lt;p&gt;Gerhold, Henry D. &lt;a href=&quot;https://books.google.com/books?id=Ys1muh3jqXsC&amp;amp;pg=PA270&amp;amp;lpg=PA270&amp;amp;dq=pennsylvania+state+forestry+department+female+students&amp;amp;source=bl&amp;amp;ots=5f-Q_RnnDJ&amp;amp;sig=gCWXVLBlTEKF8DTXvrJy-NAo5_c&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwjl4JH73oPPAhUCPj4KHYDqC8YQ6AEIPzAG#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;&lt;em&gt;A Century of Forest Resources Education at Penn State: Serving Our Forests, Waters, Wildlife, and Wood Industries&lt;/em&gt;&lt;/a&gt;. University Park (PA): Pennsylvania State University Press, 2007.&lt;/p&gt;
+
+&lt;p&gt;McGerr, Michael. &lt;em&gt;A Fierce Discontent: The Rise and Fall of the Progressive Movement in America, 1870-1920.&lt;/em&gt; New York: Free Press, 2003.&lt;/p&gt;
+
+&lt;p&gt;Thomas, Elizabeth H. &lt;a href=&quot;http://www.imakenews.com/psaanews/e_article003238407.cfm?x=b11,0,w&quot;&gt;“Student Life at the Pennsylvania State Forest Academy, 1905-1910.”&lt;/a&gt; Kittochtinny History Society, n.d.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2016/09/23/agnes-forestry.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2016/09/23/agnes-forestry.html</guid>
+        
+        
+        <category>Agnes</category>
+        
+      </item>
+    
+      <item>
+        <title>Mary in the Office</title>
+        <description>&lt;p&gt;Today, clerical work is almost exclusively a female profession, but that was not always the case. Before the Civil War, office work was done primarily by men. They worked in small offices as copyists, clerks, and bookkeepers. At the end of the 19th century, businesses expanded, typewriters were mass produced, and women entered the workforce in large numbers. In 1880, women represented 40% of employed stenographers and typists; by 1930, that number was over 95%.&lt;/p&gt;
+
+&lt;p&gt;One of the women who rushed into office work was Mary Ellen Newman. Although Mary later became a librarian, she attended a business college and then spent at least two decades of her early adulthood working as a stenographer for various businesses in Waynesboro and Pittsburgh. On the surface, her career path is nowhere near as glamorous as those of her younger sisters, Meg and Eve, who ran off to work in settlement houses in New York City and Kentucky, but it represents a pivotal period in the history of working women in the United States.&lt;/p&gt;
+
+&lt;p&gt;Historians often attribute the rapid feminization of the office work profession to the invention of the typewriter, but Margery W. Davies, in her book &lt;em&gt;Woman’s Place Is at the Typewriter: Office Work and Office Workers 1870-1930&lt;/em&gt;, outlines a number of causes, many stemming from political-economic forces of the late 1800s. The expansion of capitalism created more opportunities for careers in management for men, greatly reducing the supply of educated men for lower-ranking clerical jobs. Women were attractive candidates for these jobs because they could be paid less, the rationale being that they were not serious workers and would just leave their jobs once they married.&lt;/p&gt;
+
+&lt;p&gt;At the same time, more and more women were seeking to enter the workforce–driven by economic necessity and by the decline of productive work in the home; “home making” was no longer a job that required the efforts of all of the females in a family. More women were also being educated and looked for opportunities beyond factory work or domestic service–which were limited. Literate women seeking employment in the late 1800s could choose from nursing, teaching, or office work, and office work was often the most profitable and independent profession.&lt;/p&gt;
+
+&lt;p&gt;As clerical work expanded, so did business colleges, also known as commercial schools. These schools grew considerably between 1880 and 1890, enrolling over 80,000 students by the end of the decade. Responding to the advent of the typewriter, the schools began to teach an amanuensis or “phonographic” course, which included shorthand and typing, and specifically targeted women. Commercial schools were flexible operations; students could start classes at any time, tuition was relatively inexpensive, and most students attended classes for only a few months, to supplement a high school education. Employers often recruited workers from commercial schools, which also functioned as employment agencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyllassets/images/remington.jpg&quot; alt=&quot;Remington Typewriter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This may have been the case for Mary, who, according to her obituary, graduated from the Remington Business College in Philadelphia. I was unable to find any information about the school, but I did discover that Remington and Sons, originally a gun manufacturer, was one of the first companies to mass produce typewriters. They put their first lot of 1,000 on the market in 1874, and by 1888, they were manufacturing over 1,500 typewriters per month. Remington also operated placement bureaus, so it is likely that Mary was trained in how to use Remington typewriters and then received assistance in locating a job from the company.&lt;/p&gt;
+
+&lt;p&gt;When she started out as a stenographer, Mary represented the typical demographic of a female office worker of the early 20th century: young, single, white, and middle-class. Perhaps driven out of economic necessity–her father Jacob’s unreliability as breadwinner is well-documented–or a desire to leave Waynesboro and live independently from her family, Mary found employment at various industrial companies and then worked as a stenographer for the estate of David B. Oliver, a prominent Pittsburgh businessman. As the years went on, however, she became a rarity in the clerical world–an older woman, in her forties, unmarried, and continuing to work.&lt;/p&gt;
+
+&lt;p&gt;Older, unmarried women were disadvantaged in the job market, facing discrimination from employers and co-workers, and they rarely advanced in their careers. The older single woman, wrote Sharon Hartman Strom, “was, theoretically, by the age of twenty-five or thirty, supposed to be safely tucked away in a man’s house. Not only was her presence in the work force vaguely illegitimate, but she also suffered directly from the idea that women could not be promoted because they married, that low wages for women would do because women never had to support themselves for very long. As time went on her salary was likely to stagnate, and she was rarely able to move beyond the upper limits of office supervisor, secretary, or head bookkeeper.” (&lt;em&gt;Beyond the Typewriter&lt;/em&gt;, p. 394)&lt;/p&gt;
+
+&lt;p&gt;The generally dismal job prospects for women in offices likely contributed to Mary’s subsequent, somewhat unexpected, career change: by 1930, she had moved across the country, to Riverside, California, had received her degree in library work from the Riverside Library School, and was working as an assistant at a public library. Why leave her job, family, and life in Pennsylvania for the west coast? Why pursue a career in librarianship? There’s a story there, and I plan to tell it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Further Reading&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Davies, Margery W. &lt;em&gt;Woman’s Place Is at the Typewriter: Office Work and Office Workers 1870-1930.&lt;/em&gt; Philadelphia: Temple University Press, 1984.&lt;/li&gt;
+  &lt;li&gt;Strom, Sharon Hartman. &lt;em&gt;Beyond the Typewriter: Gender, Class, and the Origins of Modern American Office Work, 1900-1930.&lt;/em&gt; Urbana and Chicago: University of Illinois Press, 1992.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 07 Aug 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/mary/2016/08/07/mary-office.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/mary/2016/08/07/mary-office.html</guid>
+        
+        
+        <category>Mary</category>
+        
+      </item>
+    
+      <item>
+        <title>Agnes and the Railroad Trestle</title>
+        <description>&lt;p&gt;One of the often-told stories about Agnes is that when she was a teenager, she and her friends were caught by the police while walking on a railroad trestle, which was against the law. The police took her to the Justice of the Peace–who happened to be her father Jacob.&lt;/p&gt;
+
+&lt;p&gt;Like most stories about the Newman aunts, I want to know more, yet my family knows little about the incident, and I’ve been unable to find any documentation–a newspaper article, a police report, or a legal record–that fills in the gaps. It makes sense: after all, if the police had just deposited Agnes with her father–“here’s your daughter, sir, and we’re sure you’ll punish her fairly wink wink”–no documentary trace would have been left.&lt;/p&gt;
+
+&lt;p&gt;This is a problem that I have encountered many times in my research, and one that I am sure I will continue to come up against as this project progresses. There are limited sources that documented people’s lives in the early 20th century, and of these sources, even fewer that have been preserved and/or digitized and made publicly available. (&lt;a href=&quot;https://en.wikipedia.org/wiki/Open_access&quot;&gt;Open access&lt;/a&gt;, anyone?) As much as I want to know every detail about an event from the past, in some cases, my explorations will take a different path.&lt;/p&gt;
+
+&lt;p&gt;In this story, what is compelling is a place–an unknown &lt;a href=&quot;https://en.wikipedia.org/wiki/Trestle_bridge&quot;&gt;railroad trestle&lt;/a&gt;–so I decided to make that the focus of my investigation. In understanding the place, we can contextualize our understanding of Agnes, painting a richer portrait of a young woman in the world in which she lived.&lt;/p&gt;
+
+&lt;p&gt;According to an 1895 railroad map, there were two railroad lines that traveled to the Newmans’ hometown of Waynesboro, Pennsylvania: the Western Maryland and Cumberland Valley Railroads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyllassets/images/railroad-map.jpg&quot; alt=&quot;1895 Franklin County Railroad Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.abandonedrails.com/Waynesboro_Branch&quot;&gt;Waynesboro Branch&lt;/a&gt; line, operated by the Cumberland Valley Railroad, was a branch off of the Hagerstown, MD, to Harrisburg, PA, line, and appears to have ended just to the north of the town center. And on the Waynesboro Branch line was a promising possibility for the railroad trestle in question: &lt;a href=&quot;http://www.wmwestsub.com/waynesborobranch/pricestrestle.htm&quot;&gt;Price’s Trestle&lt;/a&gt;, a wooden bridge over Antietam Creek and Price’s Church Road, a little over a mile from the home where Agnes was living at the time, on North Grant Street.&lt;/p&gt;
+
+&lt;p&gt;Also known as “the Foltz Meadow railroad trestle,” the bridge was “well known to generations of Waynesboro area residents [and] built shortly after the Baltimore and Cumberland Valley Railroad Extension Company started an extension to Chambersburg in 1880.” (Around Waynesboro, p. 96) &lt;a href=&quot;http://www.railpictures.net/photo/357597/&quot;&gt;RailPictures.net&lt;/a&gt; has a photo of the trestle from 1976, depicting an extensive wooden structure traversing a low-lying meadow.&lt;/p&gt;
+
+&lt;p&gt;The trestle was also the site of multiple accidents and deaths, which speaks to the sense of danger that would have surrounded it at the time–therefore making it a risky spot for a group of teenagers.&lt;/p&gt;
+
+&lt;p&gt;From &lt;em&gt;The Harrisburg Telegraph&lt;/em&gt;, September 30, 1898:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was John Mingle who was killed by a Western Maryland freight train on Price’s trestle, near Waynesboro, Tuesday morning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And from &lt;em&gt;The Evening News&lt;/em&gt;, July 13, 1920:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kenneth Weagley, 9-year-old son of Mrs. Paul I. Criswell, of this place, was struck by a Western Maryland passenger train yesterday, the accident occurring on the trestle near Price’s, located a short distance from the local station. … The boy was playing skinning the cat on the trestle and did not see the approaching train in time to get under the timbers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sadly, the trestle no longer exists, but there remain some wooden posts and what looks like a stone ramp.&lt;/p&gt;
+
+&lt;p&gt;YouTube video?&lt;/p&gt;
+
+&lt;p&gt;The dismantling of the trestle in 1985 “effectively marked the end of Waynesboro’s 100-year era of railroad access.” (&lt;em&gt;Around Waynesboro&lt;/em&gt;, p. 96) When the railroad first arrived in Waynesboro in 1879, it brought with it modern industry, including the Landis Tool and Machine Companies. These companies helped build the town and employed many Newman men, including my great-grandfather Samuel (Agnes’s older brother), who went on to be the president of Landis Tool. In many ways, Price’s trestle was a symbol of progress and modernization, a link to the outside world for a small rural town at the turn of the century.&lt;/p&gt;
+
+&lt;p&gt;If this was the scene of Agnes’s transgression, it was appropriate. Born in 1895, she was the youngest child in the family, and she grew up in a world that was vastly different than even the world her oldest sister Babbie had experienced growing up only two decades earlier.&lt;/p&gt;
+
+&lt;p&gt;“We must see [a character] set to scale in his proper world to know his size,” writes Eudora Welty in her essay, &lt;a href=&quot;http://xroads.virginia.edu/%7EDRBR/welty.txt&quot;&gt;“Place in Fiction.”&lt;/a&gt; She was speaking of how place defines characters, guiding our vision of them, and preventing a too wide or a too narrow view. Similarly, setting this story of Agnes in a place guides our vision of her. We see her actions within a context of history and family, and this helps us to understand Agnes in her world–a young woman coming of age in a quickly changing era.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Works Referenced&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thompson, David W. &lt;em&gt;Around Waynesboro.&lt;/em&gt; Arcadia Publishing, 2003.&lt;/p&gt;
+
+&lt;p&gt;Welty, Eudora. &lt;a href=&quot;http://xroads.virginia.edu/%7EDRBR/welty.txt&quot;&gt;“Place in Fiction.”&lt;/a&gt; Collected Essays. New York, 1994.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2016/07/19/agnes-railroad-trestle.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2016/07/19/agnes-railroad-trestle.html</guid>
+        
+        
+        <category>Agnes</category>
+        
+      </item>
+    
+  </channel>
+</rss>

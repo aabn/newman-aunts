@@ -1,0 +1,41 @@
+# Site
+name: "The Newman Aunts"
+description: "A storytelling project about memory, identity, and family."
+meta_description: "Family history research blog."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /mediumish-theme-jekyll
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
+
+# Authors
+authors:
+  anna:
+    name: Anna
+    display_name: Anna
+    email: anewman024@gmail.com
+    web: http://www.aabn.github.io
+    twitter: https://twitter.com/anewlibrarian
+    description: "This is me."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge

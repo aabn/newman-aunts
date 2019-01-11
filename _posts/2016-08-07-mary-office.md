@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Mary in the Office"
+author: anna
+categories: [ Mary ]
+image: assets/images/typewriter.jpg
+---
+Today, clerical work is almost exclusively a female profession, but that was not always the case. Before the Civil War, office work was done primarily by men. They worked in small offices as copyists, clerks, and bookkeepers. At the end of the 19th century, businesses expanded, typewriters were mass produced, and women entered the workforce in large numbers. In 1880, women represented 40% of employed stenographers and typists; by 1930, that number was over 95%.
+
+One of the women who rushed into office work was Mary Ellen Newman. Although Mary later became a librarian, she attended a business college and then spent at least two decades of her early adulthood working as a stenographer for various businesses in Waynesboro and Pittsburgh. On the surface, her career path is nowhere near as glamorous as those of her younger sisters, Meg and Eve, who ran off to work in settlement houses in New York City and Kentucky, but it represents a pivotal period in the history of working women in the United States.
+
+Historians often attribute the rapid feminization of the office work profession to the invention of the typewriter, but Margery W. Davies, in her book *Woman's Place Is at the Typewriter: Office Work and Office Workers 1870-1930*, outlines a number of causes, many stemming from political-economic forces of the late 1800s. The expansion of capitalism created more opportunities for careers in management for men, greatly reducing the supply of educated men for lower-ranking clerical jobs. Women were attractive candidates for these jobs because they could be paid less, the rationale being that they were not serious workers and would just leave their jobs once they married.
+
+At the same time, more and more women were seeking to enter the workforce--driven by economic necessity and by the decline of productive work in the home; "home making" was no longer a job that required the efforts of all of the females in a family. More women were also being educated and looked for opportunities beyond factory work or domestic service--which were limited. Literate women seeking employment in the late 1800s could choose from nursing, teaching, or office work, and office work was often the most profitable and independent profession.
+
+As clerical work expanded, so did business colleges, also known as commercial schools. These schools grew considerably between 1880 and 1890, enrolling over 80,000 students by the end of the decade. Responding to the advent of the typewriter, the schools began to teach an amanuensis or "phonographic" course, which included shorthand and typing, and specifically targeted women. Commercial schools were flexible operations; students could start classes at any time, tuition was relatively inexpensive, and most students attended classes for only a few months, to supplement a high school education. Employers often recruited workers from commercial schools, which also functioned as employment agencies.
+
+![Remington Typewriter]({{site.baseurl}}assets/images/remington.jpg)
+
+This may have been the case for Mary, who, according to her obituary, graduated from the Remington Business College in Philadelphia. I was unable to find any information about the school, but I did discover that Remington and Sons, originally a gun manufacturer, was one of the first companies to mass produce typewriters. They put their first lot of 1,000 on the market in 1874, and by 1888, they were manufacturing over 1,500 typewriters per month. Remington also operated placement bureaus, so it is likely that Mary was trained in how to use Remington typewriters and then received assistance in locating a job from the company.
+
+When she started out as a stenographer, Mary represented the typical demographic of a female office worker of the early 20th century: young, single, white, and middle-class. Perhaps driven out of economic necessity--her father Jacob's unreliability as breadwinner is well-documented--or a desire to leave Waynesboro and live independently from her family, Mary found employment at various industrial companies and then worked as a stenographer for the estate of David B. Oliver, a prominent Pittsburgh businessman. As the years went on, however, she became a rarity in the clerical world--an older woman, in her forties, unmarried, and continuing to work.
+
+Older, unmarried women were disadvantaged in the job market, facing discrimination from employers and co-workers, and they rarely advanced in their careers. The older single woman, wrote Sharon Hartman Strom, "was, theoretically, by the age of twenty-five or thirty, supposed to be safely tucked away in a man's house. Not only was her presence in the work force vaguely illegitimate, but she also suffered directly from the idea that women could not be promoted because they married, that low wages for women would do because women never had to support themselves for very long. As time went on her salary was likely to stagnate, and she was rarely able to move beyond the upper limits of office supervisor, secretary, or head bookkeeper." (*Beyond the Typewriter*, p. 394)
+
+The generally dismal job prospects for women in offices likely contributed to Mary's subsequent, somewhat unexpected, career change: by 1930, she had moved across the country, to Riverside, California, had received her degree in library work from the Riverside Library School, and was working as an assistant at a public library. Why leave her job, family, and life in Pennsylvania for the west coast? Why pursue a career in librarianship? There's a story there, and I plan to tell it.
+
+**Further Reading**:
+
+* Davies, Margery W. *Woman's Place Is at the Typewriter: Office Work and Office Workers 1870-1930.* Philadelphia: Temple University Press, 1984.
+* Strom, Sharon Hartman. *Beyond the Typewriter: Gender, Class, and the Origins of Modern American Office Work, 1900-1930.* Urbana and Chicago: University of Illinois Press, 1992.
