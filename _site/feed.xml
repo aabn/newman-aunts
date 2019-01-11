@@ -3,61 +3,92 @@
   <channel>
     <title></title>
     <description>A storytelling project about memory, identity, and family.</description>
-    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
-    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jan 2019 16:28:02 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Jan 2019 16:28:02 -0500</lastBuildDate>
+    <link>http://localhost:4000/newman-aunts/</link>
+    <atom:link href="http://localhost:4000/newman-aunts/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Jan 2019 15:47:45 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Jan 2019 15:47:45 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <title>Aunt Mary and the Burgess Boardinghouse</title>
+        <description>&lt;p&gt;Last week, I found myself in Towson, Maryland, with a couple of hours to kill and a family story to pursue.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;My great-aunt Mary–my grandfather’s oldest sister–was a genealogy enthusiast and, until her death, the resident expert on the Newman family. Years later, I happened across a Newman family tree she made in 1987, annotated in her distinctive handwriting with family stories. One of these stories was about Aunt Maggie Burgess.&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;Maggie was Jacob Newman’s sister and aunt to the Newman aunts. She married William Burgess, a Civil War veteran and railroad agent; they had five daughters and lived in southern Pennsylvania. Later, the then-widowed Maggie moved to Towson, Maryland, with her daughters, where, in the 1920s, they “kept a boardinghouse in a large, porticoed white house with ‘grounds,’” according to Aunt Mary. “At 6 or 7 or 8 or thereabouts I went with Uncle Jake and maybe Kate or Bab on occasional trips ‘for the day’ to the Burgess household/boardinghouse in Towson (when Jake was visiting from Pittsburgh for weekends).”&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;This story makes me picture a large Victorian house full of Newman (technically, Burgess) women. Maggie, the matriarch, remembered by Aunt Mary as a “very little woman in black with a cane.” Maggie’s oldest daughter Lula Heffelfinger, who moved to Towson after being widowed, accompanied at times by her daughter Mary and her granddaughter Nancy. Lula’s younger sister, Margaret, who was unmarried. And, a favorite of her Newman cousins, the youngest, Nan, a “large, cheerful woman” (Aunt Mary’s words again), who had a career as a singer and while traveling, met and married Hobart Smock, a tenor, who also ended up at the boardinghouse.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In fact, I later learned, Hobart Smock was the original owner of the house. According to photos at the Baltimore County Public Library1, he purchased the house in 1908, a few years after his marriage to Nan, and called it “Carolcroft,” because of his interest in glee clubs and choirs.&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;For many reasons, it does not surprise me that, even as he played a critical role in the Burgess boardinghouse, Hobart Smock was only a footnote in Aunt Mary’s retelling. Up against the Newman women, even an illustrious tenor would be harmonizing in the background.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;§&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Sitting in my rental car in Towson, I fired up Google Maps. Census records told me that the house was located at 205 Aigburth Road, so I set out for that address, looking for large, porticoed houses that might match Aunt Mary’s description. I wasn’t sure if this quest would bear fruit–house numbers and street names probably have changed since the early 1900s–but fortunately, I also had an old photo I had stumbled across during my research, which although a bit blurry, gave me an image of a house with a gabled roof and two large chimneys.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;The GPS announced that I had arrived at my destination, just as I pulled up in front of Towson High School, and as I looked to my right, I saw, half-hidden by trees, a large house with a front porch, looking very similar to the house depicted in the photo I had found.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyll/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/newman-aunts/assets/images/towson-house.jpg&quot; alt=&quot;House in Towson, Maryland&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;The railings on the front porch had been updated, and the house was both green and white, but it appeared that the Burgess boardinghouse was still standing, after more than a hundred years.&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;I didn’t linger at the house–just long enough to take a photo and note the location for future reference–yet this short trip has remained with me. The experience of visiting places that were important to my ancestors helps me feel connected to them, in a way that transcends memory.&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;Locating and visiting historic homes is a ritual that I will always associate with Aunt Mary. My father has photographs taken during his trips with her to find our ancestors’ homes in southeastern Pennsylvania, denoted with the addresses and directions. Emboldened by my high school independent study on family history, during my senior year, I assembled these directions into an itinerary, and that summer, on the way home from–of all places–touring Goucher College in Towson, Maryland, my family visited these houses and towns where our ancestors had spent their lives. Though she was not with us, Aunt Mary was our tour guide.&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;I have a postcard that Aunt Mary sent my brother and me in 1997. In it, she thanks us for sending her a postcard from Gettysburg, where we had just gone on vacation. At the end, she asks, “Did you also see the town where your Dad lived when he was a boy?”&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/newman-aunts/assets/images/postcard.jpg&quot; alt=&quot;Postcard from Aunt Mary&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;It is not just the stories we tell, but the places where we live out our lives, that should be remembered, and passed on.&lt;/p&gt;
+
+&lt;p&gt;1 The photos below of 205 Aigburth Road come from the Baltimore County Public Library collection. They depict a dark and ornate interior, with patterned wallpaper, dark furniture, oriental rugs, and–befitting a musical household–a piano. The photos were taken by William C. Kenney, c. 1917-1919.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/newman-aunts/assets/images/house-interior.jpg&quot; alt=&quot;Interior of house&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/newman-aunts/assets/images/house-interior1.jpg&quot; alt=&quot;Interior of house&quot; /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        <pubDate>Fri, 13 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/newman-aunts/2017/10/13/aunt-mary-burgess-boardinghouse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/2017/10/13/aunt-mary-burgess-boardinghouse.html</guid>
         
         
-        <category>Jekyll</category>
+      </item>
+    
+      <item>
+        <title>Not Knowing</title>
+        <description>&lt;p&gt;I’ve been lingering on a post about Babbie for several weeks now. I’d like to blame my delay on personal and professional travel, on taking on some freelance work, on a huge stack of books next to my bed demanding my attention. But the truth is, I’ve just had a hard time wrapping my head around this next post. I’ve been doing research, jotting down notes, and drafting prose, but it hasn’t been coming together cohesively. Today I realized that there’s a story hidden in that post, and until I tell it and reflect on what it might mean, I won’t be able to truly tell the story of Babbie’s life.&lt;/p&gt;
+
+&lt;p&gt;On August 5, 1925, Babbie’s middle son, Richard, committed suicide by taking cyanide. He was 25 years old.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Gettysburg Times&lt;/em&gt; reported the details. Richard “died from the effects of poison which was self administered. A note left by the young man explained why he committed the act. Despondency was given as the reason, this being brought on by ill health. The young man had been a sufferer from heart trouble for a number of years.”&lt;/p&gt;
+
+&lt;p&gt;The newspaper account relates how Richard had seemed his usual self, had eaten dinner with his parents before going upstairs to bed around 10:00 p.m. Then there is the moment that sticks with me:&lt;/p&gt;
+
+&lt;p&gt;“He was not heard moving about the house after this time, but shortly after midnight &lt;strong&gt;his mother&lt;/strong&gt; heard him moaning as though in great pain.”&lt;/p&gt;
+
+&lt;p&gt;This grisly newspaper article depicts Babbie at a moment in time. It is the moment right before her husband Abner climbs to the attic, to discover his son’s body, with a note next to it. It is the moment right before she is greeted with intense sorrow, pain, and confusion. It is the moment right before she realizes that she has lost her son.&lt;/p&gt;
+
+&lt;p&gt;This is not the lone suicide in our family history. Over the course of ten years, the Newman aunts lost three men in their lives to suicide. I’ve already told of how Eve’s husband, Alan Gilmour, committed suicide, only eight months before Edward. There is also the aunts’ brother Jake, my great-great uncle, who committed suicide in 1935, by sitting in a running car inside his garage.&lt;/p&gt;
+
+&lt;p&gt;I am drawn to speculate about why these men would commit suicide. &lt;em&gt;The Gettysburg Times&lt;/em&gt; refers to longstanding heart problems for Richard. Alan Gilmour’s obituary mentions his health failing a year before his death. According to family stories, Jake was never as successful in business as his older brothers, and he was gay at a time when homosexuality was not accepted. It is easy to seek out these explanations, to accept them as truth, to codify them and make them part of the story that I am telling.&lt;/p&gt;
+
+&lt;p&gt;But the only true thing is that I will never know what really happened. I will never be able to understand why they felt such desperation that they wanted to take their own lives. I will never be able to answer the many questions that surround their deaths. So, instead, I ask myself why I am so caught up by this story. Why can’t I just finish my next post about Babbie and continue on with this project?&lt;/p&gt;
+
+&lt;p&gt;When I think about these tragic deaths, I think less about the men, but about the women they left behind. After so much loss–so sudden, so unexplainable–how do you move on? How do you rebuild your life after your partner leaves you? How do you recover from the death of a child? How do you feel the absence of a sibling and not experience overwhelming heartache and sorrow every day? And, finally, how do you live with the “not knowing”?&lt;/p&gt;
+
+&lt;p&gt;I always like to have an explanation. I want answers, and it’s hard when I can’t find them. My search for answers is what started me on this project, but I won’t be able to answer every question I have. When I think about Richard, Alan, and Jake, I will have to live with the “not knowing,” which echoes down through the generations, from my great-great aunts, down to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: CC BY / &lt;a href=&quot;https://www.flickr.com/photos/98317926@N04/&quot;&gt;Tomi Lattu&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/newman-aunts/babbie/2017/07/04/not-knowing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/babbie/2017/07/04/not-knowing.html</guid>
         
-        <category>tutorial</category>
+        
+        <category>Babbie</category>
         
       </item>
     
@@ -96,8 +127,8 @@
 &lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;http://digicoll.library.wisc.edu/WebZ/FETCH?sessionid=01-59303-358532979:recno=1:resultset=1:format=F:next=html/nffull.html:bad=error/badfetch.html&amp;amp;entityimageSize=x&quot;&gt;“Farming Country”&lt;/a&gt; by G. M. Schwartz. Courtesy of the University of Wisconsin Digital Collections.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2017/04/23/agnes-state-college.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2017/04/23/agnes-state-college.html</guid>
+        <link>http://localhost:4000/newman-aunts/agnes/2017/04/23/agnes-state-college.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/agnes/2017/04/23/agnes-state-college.html</guid>
         
         
         <category>Agnes</category>
@@ -108,7 +139,7 @@
         <title>Meg and the Pure Americans</title>
         <description>&lt;p&gt;When I first started researching the years that Meg spent in rural western Maryland in the early 1920s, I knew next to nothing–only the short description written on her resume: “Part time worker, Frederick County, Md. School Health Inspection. Survey of farm tenancy for U. S. Dept. of Agriculture. Co-worker, Beulah Weldon Burhoe. Volunteer and experimental services. Expenses only.”&lt;/p&gt;
 
-&lt;p&gt;I was searching Meg’s name in historical newspapers when I came across a letter Beulah Weldon had written to her Barnard alumni magazine describing the “model farmstead” that she and Meg had started in Friends Creek, and this led me to more articles detailing their work at their settlement house, including a nearly full-page 1922 &lt;em&gt;Baltimore Sun&lt;/em&gt; article called “Maryland Has Forgotten Colonies of Anglo Saxons.” This article provided the most detailed accounting that I had seen thus far in my research, describing the history of the settlement and Meg and Beulah’s activities on Friends Creek–much of which I recounted in a &lt;a href=&quot;/mediumish-theme-jekyll_posts/2017-03-21-meg-experimental-services.md&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I was searching Meg’s name in historical newspapers when I came across a letter Beulah Weldon had written to her Barnard alumni magazine describing the “model farmstead” that she and Meg had started in Friends Creek, and this led me to more articles detailing their work at their settlement house, including a nearly full-page 1922 &lt;em&gt;Baltimore Sun&lt;/em&gt; article called “Maryland Has Forgotten Colonies of Anglo Saxons.” This article provided the most detailed accounting that I had seen thus far in my research, describing the history of the settlement and Meg and Beulah’s activities on Friends Creek–much of which I recounted in a &lt;a href=&quot;/newman-aunts_posts/2017-03-21-meg-experimental-services.md&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As I was reading this article, one line struck me as soon as I read it: “The Daughters of the American Revolution, who are greatly desirous of fostering patriotism and pure Americanism have contributed largely.” “Pure Americanism”? What did that mean?&lt;/p&gt;
 
@@ -133,8 +164,8 @@
 &lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;https://calisphere.org/item/ark:/13030/ft5r29p0d6/&quot;&gt;“Immigrants”&lt;/a&gt; by Johan Hagemeyer. From the Bancroft Library, University of California, Berkeley.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/meg/2017/04/04/meg-pure-americans.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/meg/2017/04/04/meg-pure-americans.html</guid>
+        <link>http://localhost:4000/newman-aunts/meg/2017/04/04/meg-pure-americans.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/meg/2017/04/04/meg-pure-americans.html</guid>
         
         
         <category>Meg</category>
@@ -176,8 +207,8 @@
 &lt;p&gt;&lt;em&gt;Image: &lt;a href=&quot;http://collections.lib.uwm.edu/cdm/ref/collection/agsnorth/id/12346&quot;&gt;“United States, view of farm field in Flintstone, Maryland”&lt;/a&gt; by Robert S. Platt. Courtesy of the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/meg/2017/03/21/meg-experimental-services.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/meg/2017/03/21/meg-experimental-services.html</guid>
+        <link>http://localhost:4000/newman-aunts/meg/2017/03/21/meg-experimental-services.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/meg/2017/03/21/meg-experimental-services.html</guid>
         
         
         <category>Meg</category>
@@ -223,8 +254,8 @@
 &lt;p&gt;After Alan’s death, Eve found herself, at the age of 37, a widow. When she married Alan, Eve was a spirited, independent young woman, who had been seeking her own path in the world. With Alan, she had embarked on a life that was undoubtedly exciting, but at times, precarious and unstable. Yet neither this marriage, nor the manner of how it ended, defined her life. The same year that she was widowed, Eve moved back across the country to attend the New York School of Social Work, starting a new life defined in large part by her pioneering career.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/eve/2017/02/06/who-was-alan-gilmour.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/eve/2017/02/06/who-was-alan-gilmour.html</guid>
+        <link>http://localhost:4000/newman-aunts/eve/2017/02/06/who-was-alan-gilmour.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/eve/2017/02/06/who-was-alan-gilmour.html</guid>
         
         
         <category>Eve</category>
@@ -298,8 +329,8 @@
 &lt;p&gt;&lt;em&gt;Header image: &lt;a href=&quot;http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll65/id/8546&quot;&gt;“Riverside’s Public Library, ca. 1910.”&lt;/a&gt; &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY&lt;/a&gt; University of Southern California Libraries and California Historical Society.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/mary/2016/12/15/mary-riverside-library-service-school.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/mary/2016/12/15/mary-riverside-library-service-school.html</guid>
+        <link>http://localhost:4000/newman-aunts/mary/2016/12/15/mary-riverside-library-service-school.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/mary/2016/12/15/mary-riverside-library-service-school.html</guid>
         
         
         <category>Mary</category>
@@ -314,7 +345,7 @@
 
 &lt;p&gt;Eve’s role at the school was expanding as well. In February of 1915, she was elected to Pine Mountain’s General Advisory Board. (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=12234&quot;&gt;Letter from Marguerite Butler, 2/24/1915&lt;/a&gt;) The board was a group of advisors, selected by the Executive Committee, which had “the power to direct and shape the policies of the school, to vote at all Board meetings, and to control the actions of the Board of Trustees.” (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=4873&quot;&gt;Board Report, January 3, 1914&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;![Letter from Marguerite Butler, 1915](/mediumish-theme-jekyllassets/images/letter.jpg&lt;/p&gt;
+&lt;p&gt;![Letter from Marguerite Butler, 1915](/newman-auntsassets/images/letter.jpg&lt;/p&gt;
 
 &lt;p&gt;“Miss Newman was elected at the meeting a member of the board of the school.” “but_1915_01_026.jpg,” Marguerite Butler Letters, Pine Mountain Settlement School, Pine Mountain, KY. 2016 Oct. 10.&lt;/p&gt;
 
@@ -344,15 +375,15 @@
 
 &lt;p&gt;The question of when Eve left her work at Pine Mountain is harder to figure out. In a letter dated Spring 1916, Marguerite Butler stated that Eve would be away until the end of April. (&lt;a href=&quot;https://pinemountainsettlement.net/?attachment_id=12143&quot;&gt;Letter from Marguerite Butler, Spring 1916&lt;/a&gt;) By that time, however, Eve was married and living in Lexington, Kentucky, with Alan. She may have continued to serve on the board for some time after that, but her documented engagements all appear to have been in Lexington, such as when she was elected president of the Civil League for the year of 1917. (“Mrs. Gilmour President,” &lt;em&gt;The Courier-Journal&lt;/em&gt;, December 8, 1916) A few years after that, Eve and Alan had left Kentucky behind for the west coast, settling in southern California, where Eve would remain for some time.&lt;/p&gt;
 
-&lt;p&gt;![Eve Newman and Alan Gilmour](/mediumish-theme-jekyllassets/images/eve-alan.jpg&lt;/p&gt;
+&lt;p&gt;![Eve Newman and Alan Gilmour](/newman-auntsassets/images/eve-alan.jpg&lt;/p&gt;
 
 &lt;p&gt;Although perhaps no fixed relationship existed between Eve and Pine Mountain in the years that followed her move to California, the influence of the school was long-lasting. Her career in social work, her devotion to improving the lives of children, her strength and determination–all can be traced back to her time in the Kentucky mountains.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Post header image: Top of Pine Mountain. “nace_1_010a.jpg,” Dorothy Nace Photograph Album I Part I, Photographs, Pine Mountain Settlement School, Pine Mountain, KY. 2016 Oct. 10.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/eve/2016/10/10/eve-last-year-kentucky.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/eve/2016/10/10/eve-last-year-kentucky.html</guid>
+        <link>http://localhost:4000/newman-aunts/eve/2016/10/10/eve-last-year-kentucky.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/eve/2016/10/10/eve-last-year-kentucky.html</guid>
         
         
         <category>Eve</category>
@@ -400,8 +431,8 @@
 &lt;p&gt;Thomas, Elizabeth H. &lt;a href=&quot;http://www.imakenews.com/psaanews/e_article003238407.cfm?x=b11,0,w&quot;&gt;“Student Life at the Pennsylvania State Forest Academy, 1905-1910.”&lt;/a&gt; Kittochtinny History Society, n.d.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2016/09/23/agnes-forestry.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2016/09/23/agnes-forestry.html</guid>
+        <link>http://localhost:4000/newman-aunts/agnes/2016/09/23/agnes-forestry.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/agnes/2016/09/23/agnes-forestry.html</guid>
         
         
         <category>Agnes</category>
@@ -420,7 +451,7 @@
 
 &lt;p&gt;As clerical work expanded, so did business colleges, also known as commercial schools. These schools grew considerably between 1880 and 1890, enrolling over 80,000 students by the end of the decade. Responding to the advent of the typewriter, the schools began to teach an amanuensis or “phonographic” course, which included shorthand and typing, and specifically targeted women. Commercial schools were flexible operations; students could start classes at any time, tuition was relatively inexpensive, and most students attended classes for only a few months, to supplement a high school education. Employers often recruited workers from commercial schools, which also functioned as employment agencies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyllassets/images/remington.jpg&quot; alt=&quot;Remington Typewriter&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/newman-auntsassets/images/remington.jpg&quot; alt=&quot;Remington Typewriter&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This may have been the case for Mary, who, according to her obituary, graduated from the Remington Business College in Philadelphia. I was unable to find any information about the school, but I did discover that Remington and Sons, originally a gun manufacturer, was one of the first companies to mass produce typewriters. They put their first lot of 1,000 on the market in 1874, and by 1888, they were manufacturing over 1,500 typewriters per month. Remington also operated placement bureaus, so it is likely that Mary was trained in how to use Remington typewriters and then received assistance in locating a job from the company.&lt;/p&gt;
 
@@ -438,68 +469,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 07 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/mary/2016/08/07/mary-office.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/mary/2016/08/07/mary-office.html</guid>
+        <link>http://localhost:4000/newman-aunts/mary/2016/08/07/mary-office.html</link>
+        <guid isPermaLink="true">http://localhost:4000/newman-aunts/mary/2016/08/07/mary-office.html</guid>
         
         
         <category>Mary</category>
-        
-      </item>
-    
-      <item>
-        <title>Agnes and the Railroad Trestle</title>
-        <description>&lt;p&gt;One of the often-told stories about Agnes is that when she was a teenager, she and her friends were caught by the police while walking on a railroad trestle, which was against the law. The police took her to the Justice of the Peace–who happened to be her father Jacob.&lt;/p&gt;
-
-&lt;p&gt;Like most stories about the Newman aunts, I want to know more, yet my family knows little about the incident, and I’ve been unable to find any documentation–a newspaper article, a police report, or a legal record–that fills in the gaps. It makes sense: after all, if the police had just deposited Agnes with her father–“here’s your daughter, sir, and we’re sure you’ll punish her fairly wink wink”–no documentary trace would have been left.&lt;/p&gt;
-
-&lt;p&gt;This is a problem that I have encountered many times in my research, and one that I am sure I will continue to come up against as this project progresses. There are limited sources that documented people’s lives in the early 20th century, and of these sources, even fewer that have been preserved and/or digitized and made publicly available. (&lt;a href=&quot;https://en.wikipedia.org/wiki/Open_access&quot;&gt;Open access&lt;/a&gt;, anyone?) As much as I want to know every detail about an event from the past, in some cases, my explorations will take a different path.&lt;/p&gt;
-
-&lt;p&gt;In this story, what is compelling is a place–an unknown &lt;a href=&quot;https://en.wikipedia.org/wiki/Trestle_bridge&quot;&gt;railroad trestle&lt;/a&gt;–so I decided to make that the focus of my investigation. In understanding the place, we can contextualize our understanding of Agnes, painting a richer portrait of a young woman in the world in which she lived.&lt;/p&gt;
-
-&lt;p&gt;According to an 1895 railroad map, there were two railroad lines that traveled to the Newmans’ hometown of Waynesboro, Pennsylvania: the Western Maryland and Cumberland Valley Railroads.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyllassets/images/railroad-map.jpg&quot; alt=&quot;1895 Franklin County Railroad Map&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://www.abandonedrails.com/Waynesboro_Branch&quot;&gt;Waynesboro Branch&lt;/a&gt; line, operated by the Cumberland Valley Railroad, was a branch off of the Hagerstown, MD, to Harrisburg, PA, line, and appears to have ended just to the north of the town center. And on the Waynesboro Branch line was a promising possibility for the railroad trestle in question: &lt;a href=&quot;http://www.wmwestsub.com/waynesborobranch/pricestrestle.htm&quot;&gt;Price’s Trestle&lt;/a&gt;, a wooden bridge over Antietam Creek and Price’s Church Road, a little over a mile from the home where Agnes was living at the time, on North Grant Street.&lt;/p&gt;
-
-&lt;p&gt;Also known as “the Foltz Meadow railroad trestle,” the bridge was “well known to generations of Waynesboro area residents [and] built shortly after the Baltimore and Cumberland Valley Railroad Extension Company started an extension to Chambersburg in 1880.” (Around Waynesboro, p. 96) &lt;a href=&quot;http://www.railpictures.net/photo/357597/&quot;&gt;RailPictures.net&lt;/a&gt; has a photo of the trestle from 1976, depicting an extensive wooden structure traversing a low-lying meadow.&lt;/p&gt;
-
-&lt;p&gt;The trestle was also the site of multiple accidents and deaths, which speaks to the sense of danger that would have surrounded it at the time–therefore making it a risky spot for a group of teenagers.&lt;/p&gt;
-
-&lt;p&gt;From &lt;em&gt;The Harrisburg Telegraph&lt;/em&gt;, September 30, 1898:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It was John Mingle who was killed by a Western Maryland freight train on Price’s trestle, near Waynesboro, Tuesday morning.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And from &lt;em&gt;The Evening News&lt;/em&gt;, July 13, 1920:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Kenneth Weagley, 9-year-old son of Mrs. Paul I. Criswell, of this place, was struck by a Western Maryland passenger train yesterday, the accident occurring on the trestle near Price’s, located a short distance from the local station. … The boy was playing skinning the cat on the trestle and did not see the approaching train in time to get under the timbers.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sadly, the trestle no longer exists, but there remain some wooden posts and what looks like a stone ramp.&lt;/p&gt;
-
-&lt;p&gt;YouTube video?&lt;/p&gt;
-
-&lt;p&gt;The dismantling of the trestle in 1985 “effectively marked the end of Waynesboro’s 100-year era of railroad access.” (&lt;em&gt;Around Waynesboro&lt;/em&gt;, p. 96) When the railroad first arrived in Waynesboro in 1879, it brought with it modern industry, including the Landis Tool and Machine Companies. These companies helped build the town and employed many Newman men, including my great-grandfather Samuel (Agnes’s older brother), who went on to be the president of Landis Tool. In many ways, Price’s trestle was a symbol of progress and modernization, a link to the outside world for a small rural town at the turn of the century.&lt;/p&gt;
-
-&lt;p&gt;If this was the scene of Agnes’s transgression, it was appropriate. Born in 1895, she was the youngest child in the family, and she grew up in a world that was vastly different than even the world her oldest sister Babbie had experienced growing up only two decades earlier.&lt;/p&gt;
-
-&lt;p&gt;“We must see [a character] set to scale in his proper world to know his size,” writes Eudora Welty in her essay, &lt;a href=&quot;http://xroads.virginia.edu/%7EDRBR/welty.txt&quot;&gt;“Place in Fiction.”&lt;/a&gt; She was speaking of how place defines characters, guiding our vision of them, and preventing a too wide or a too narrow view. Similarly, setting this story of Agnes in a place guides our vision of her. We see her actions within a context of history and family, and this helps us to understand Agnes in her world–a young woman coming of age in a quickly changing era.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Works Referenced&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Thompson, David W. &lt;em&gt;Around Waynesboro.&lt;/em&gt; Arcadia Publishing, 2003.&lt;/p&gt;
-
-&lt;p&gt;Welty, Eudora. &lt;a href=&quot;http://xroads.virginia.edu/%7EDRBR/welty.txt&quot;&gt;“Place in Fiction.”&lt;/a&gt; Collected Essays. New York, 1994.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/agnes/2016/07/19/agnes-railroad-trestle.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/agnes/2016/07/19/agnes-railroad-trestle.html</guid>
-        
-        
-        <category>Agnes</category>
         
       </item>
     
