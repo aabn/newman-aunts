@@ -13,13 +13,13 @@ Maggie was Jacob Newman's sister and aunt to the Newman aunts. She married Willi
 
 This story makes me picture a large Victorian house full of Newman (technically, Burgess) women. Maggie, the matriarch, remembered by Aunt Mary as a "very little woman in black with a cane." Maggie's oldest daughter Lula Heffelfinger, who moved to Towson after being widowed, accompanied at times by her daughter Mary and her granddaughter Nancy. Lula's younger sister, Margaret, who was unmarried. And, a favorite of her Newman cousins, the youngest, Nan, a "large, cheerful woman" (Aunt Mary's words again), who had a career as a singer and while traveling, met and married Hobart Smock, a tenor, who also ended up at the boardinghouse.
 
-In fact, I later learned, Hobart Smock was the original owner of the house. According to photos at the Baltimore County Public Library1, he purchased the house in 1908, a few years after his marriage to Nan, and called it "Carolcroft," because of his interest in glee clubs and choirs.
+In fact, I later learned, Hobart Smock was the original *owner* of the house. According to photos at the Baltimore County Public Library (see note below), he purchased the house in 1908, a few years after his marriage to Nan, and called it "Carolcroft," because of his interest in glee clubs and choirs.
 
 For many reasons, it does not surprise me that, even as he played a critical role in the Burgess boardinghouse, Hobart Smock was only a footnote in Aunt Mary's retelling. Up against the Newman women, even an illustrious tenor would be harmonizing in the background.
 
 §
 
-Sitting in my rental car in Towson, I fired up Google Maps. Census records told me that the house was located at 205 Aigburth Road, so I set out for that address, looking for large, porticoed houses that might match Aunt Mary's description. I wasn't sure if this quest would bear fruit--house numbers and street names probably have changed since the early 1900s--but fortunately, I also had an old photo I had stumbled across during my research, which although a bit blurry, gave me an image of a house with a gabled roof and two large chimneys.
+Sitting in my rental car in Towson, I fired up Google Maps. Census records told me that the house was located on Aigburth Road, so I set out for that address, looking for large, porticoed houses that might match Aunt Mary's description. I wasn't sure if this quest would bear fruit--house numbers and street names probably have changed since the early 1900s--but fortunately, I also had an old photo I had stumbled across during my research, which although a bit blurry, gave me an image of a house with a gabled roof and two large chimneys.
 
 The GPS announced that I had arrived at my destination, just as I pulled up in front of Towson High School, and as I looked to my right, I saw, half-hidden by trees, a large house with a front porch, looking very similar to the house depicted in the photo I had found.
 
@@ -39,7 +39,7 @@ It is not just the stories we tell, but the places where we live out our lives, 
 
 
 
-1 The photos below of 205 Aigburth Road come from the Baltimore County Public Library collection. They depict a dark and ornate interior, with patterned wallpaper, dark furniture, oriental rugs, and--befitting a musical household--a piano. The photos were taken by William C. Kenney, c. 1917-1919.
+Note: The photos below of the Aigburth Road house come from the [Baltimore County Public Library collection](http://catalog.bcpl.lib.md.us/polaris/search/searchresults.aspx?ctx=1.1033.0.0.5&type=Keyword&term=205%20Aigburth%20Road*&by=KW&sort=RELEVANCE&limit=TOM=dmc&query=&page=0&searchid=3). They depict a dark and ornate interior, with patterned wallpaper, dark furniture, oriental rugs, and--befitting a musical household--a piano. The photos were taken by William C. Kenney, c. 1917-1919.
 
 ![Interior of house]({{site.baseurl}}/assets/images/house-interior.jpg)
 

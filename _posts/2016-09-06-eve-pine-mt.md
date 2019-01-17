@@ -31,7 +31,7 @@ While fundraising efforts for both Hindman and Pine Mountain continued, Pettit a
 
 The Pine Mountain Settlement School officially opened in the spring of 1913, with a borrowed house, a Masonic Lodge building, some tents--and big plans. Over the next few months, the small, determined group of women prepared their land for farming, ordered and transported a sawmill over the mountain, built foot logs over the creek, fenced in their land against wandering neighborhood hogs, petitioned the local Fiscal Court for the building of a road over the mountain, organized Saturday afternoon clubs and Sunday Schools for the nearby children, and put on a Fourth of July celebration.
 
-![Wagons arriving at Pine Mountain]({{site:baseurl}}assets/images/pine-mt.jpg)
+![Wagons arriving at Pine Mountain]({{site.baseurl}}assets/images/pine-mt.jpg)
 
 *Wagons arriving at Pine Mountain, May 12, 1913. "hook_album_2blk__019," Mary Rockwell Hook Album II, Photographs, Pine Mountain Settlement School, Pine Mountain, KY. 2016 Sept. 6.*
 
