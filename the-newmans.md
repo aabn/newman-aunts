@@ -12,11 +12,16 @@ Jacob is described as a "character" and appears to have always been on the looko
 
 Although the focus of this project is on the "Newman women," there were three Newman men as well: Martin (1871-1926), Samuel (1882-1964), and Jacob (1890-1935). Martin, described as a man who had "left and right socks," moved away from the family as a young man and became a chemical engineer. Jacob worked in the steel and bronze industries and, sadly, committed suicide in 1935. Samuel, my great-grandfather, worked his way up from a machinist to president at the Landis Tool and Machine Companies. He married Matilda Omwake, and they had five children: Mary, Emma, Barbara, William (my grandfather), and Peggy.
 
-The Newman Women
+**The Newman Women**
 
 [Babbie]({{site.baseurl}}/babbie)
-Mary
-Meg
-Eve
-Kate
-Agnes
+
+[Mary]({{site.baseurl}}/mary)
+
+[Meg]({{site.baseurl}}/meg)
+
+[Eve]({{site.baseurl}}/eve)
+
+[Kate]({{site.baseurl}}/kate)
+
+[Agnes]({{site.baseurl}}/agnes)

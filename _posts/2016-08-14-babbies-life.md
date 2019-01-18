@@ -7,7 +7,7 @@ featured: false
 hidden: false
 ---
 
-On May 15, 1894, the first of the Newman aunts left home to start a new life. In a quiet ceremony at the Newman family house near Waynesboro, Barbara "Babbie" Newman, the oldest of the six sisters, married Jacob Abner Miller, a teacher and the son of Cumberland County farmers. When Babbie left home, most of her siblings were still under the age of twelve; her youngest sister, Agnes, would not even be born until the following year (making Agnes only a year older than her nephew, Babbie's first son Frederick, who was born in 1896).
+On May 15, 1894, the first of the Newman aunts left home to start a new life. In a quiet ceremony at the Newman family house near Waynesboro, [Barbara "Babbie" Newman]({{site.baseurl}}/babbie), the oldest of the six sisters, married Jacob Abner Miller, a teacher and the son of Cumberland County farmers. When Babbie left home, most of her siblings were still under the age of twelve; her youngest sister, Agnes, would not even be born until the following year (making Agnes only a year older than her nephew, Babbie's first son Frederick, who was born in 1896).
 
 As the oldest daughter, and with so many young children in the house, Babbie probably had to assume many responsibilities at a young age. One can only imagine the nature of her transition from helping her mother care for a large family to being the wife of a schoolteacher, and, eventually, mother to five.
 
