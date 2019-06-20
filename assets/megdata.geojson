@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Apr 1 - Child's Health Conference, Emmitsburg",
+        "description": "Meg assisted at a child's health conference held by the Woman's Club of Emmitsburg at the Slagle Hotel. This was the first clinic held in Emmitsburg.<br><br>\"Child's Clinic at Emmitsburg.\" The Frederick Post, April 6, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7045454,
+          -77.3270988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Aug - St. Anthony\n",
+        "description": "Meg visited St. Anthony.<br><br>\"St. Anthony.\" The Frederick Post, August 21, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6764092,
+          -77.3567104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Aug 21 - Clinic, Wolfsville\n",
+        "description": "Meg was in charge of a clinic in Wolfsville, in collaboration with the Woman's Club. She gave directions and consultations to mothers. \"Miss Newman, in assisting mothers with the care of their children, pointed out the importance of taking preventive measures in regard to all physical ailments, offered specific advice in each case, distributed feeding lists and other material, and aided generally in the promotion of better health among persons of that locality.\"<br><br>\"35 Persons Examined at Clinic at Wolfsville.\" The News (Frederick, MD), August 22, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5761225,
+          -77.5524044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Dec 23 - Clinic, Brunswick\n",
+        "description": "Meg assisted at a clinic at the B&O Emergency Hospital. \"Eight patients were present. The rush before Christmas and the inclement weather prevented some from attending who had been recommended.\"<br><br>\"Seal Sale Nearly $2,500.\" The Frederick Post, December 23, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3149098,
+          -77.6277637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Nov 2 - Child Hygiene Clinic, Franklinville\n",
+        "description": "Meg held a child hygiene clinic in Franklinville.<br><br>\"Child Clinic.\" The Daily News (Frederick, MD), November 2, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6435032,
+          -77.4074364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Oct 16 - Health Talk, Thurmont\n",
+        "description": "Meg gave a health talk in Thurmont with Dr. Kefauver.<br><br>\"Interest School in Health Work.\" The Frederick Post, October 16, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6249949,
+          -77.4113846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1925 Oct 28 - Health Clinic, Myersville\n",
+        "description": "Meg assisted at a health clinic at Myersville. She spoke at PTA meetings about the benefits of health clinics.<br><br>\"Health Clinic Conducted at Myersville Monday.\" The Daily News (Frederick, MD), October 28, 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5057625,
+          -77.5664806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Apr 15 - Children's Clinic, Jefferson\n",
+        "description": "Meg assists at a children's clinic in Jefferson, at the St. Paul's Lutheran church Sunday school rooms.<br><br>“Children's Clinic: Twenty-three Youngsters Examined at Jefferson.” The News (Frederick, MD), April 21, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3620902,
+          -77.5319922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Apr 28 - Chest Clinic, Brunswick Emergency Hospital\n",
+        "description": "Meg assisted at a chest clinic at the Brunswick Emergency Hospital, the largest ever held in the country.<br><br>\"29 Patients Examined.\" The Frederick Post, April 28, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3142682,
+          -77.6277679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Feb 11 - Health Board Conference, Frederick",
+        "description": "Meg attended an informal conference, at which they determined that the state regional health conference would need to be postponed because of weather.<br><br>\"Conference of Health Board Here Postponed.\" The Frederick Post, February 11, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4268835,
+          -77.4060342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Feb 23 - Talk at the Woodsboro PTA\n",
+        "description": "Meg, Katherine Scully, and Pauline Michael speak at the Parent-Teachers Association of Woodsboro in the Woodsboro Opera House.<br><br>“Epidemic Colds Sweeps County; Public Warned.” The Frederick Post, February 22, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5331563,
+          -77.314706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Jan 26 - Tuberculosis Clinic, Frederick\n",
+        "description": "Meg assisted at a bimonthly tuberculosis clinic in Frederick.<br><br>\"17 Patients at Regular Clinic at Courthouse.\" The Frederick Post, January 26, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4173641,
+          -77.4117279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Jan 8 - School Inspections, Brunswick\n",
+        "description": "Meg inspected Brunswick schools for diseases.<br><br>\"Scarlet Fever Attack.\" The Frederick Post, January 6, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3151755,
+          -77.6263905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 July 21 - Health Clinic, Middletown\n",
+        "description": "Meg assists at a health clinic in Middletown High School.<br><br>“49 Children Examined at Middletown Clinic.” The News (Frederick, MD), July 22, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4464963,
+          -77.5343208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 June 11 - Child's Health Conference for Woman's Club of Emmitsburg, Knights of Columbus Building, Emmitsburg\n",
+        "description": "Meg assisted at a child's health conference for the Woman's Club of Emmitsburg. Her friend Beulah Weldon, who was visiting the area, also assisted.<br><br>\"Health Conference.\" The Daily News (Frederick, MD), June 11, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6813884,
+          -77.3508418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 June 23 - Child Clinic, Washington Street School, Frederick\n",
+        "description": "Meg assisted at a child clinic at the Washington Street School in Frederick. \"Twenty-four children from a list of 30 who will enter the school in the Fall were examined, and satisfactory results obtained. It was stated that a large number had been vaccinated during the past two weeks, in accordance with the direction of the health officer.\"<br><br>\"Child Clinic Held.\" The News (Frederick, MD), June 23, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4142688,
+          -77.4105409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 June 9 - Pre-school Conference, Woodsboro\n",
+        "description": "Meg assists at a pre-school conference at the Woodsboro school.<br><br>“Examine Children for New School Year.” The News (Frederick, MD), June 10, 1926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5325605,
+          -77.3155643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Mar 1 - Meeting of Federated Charities and Public Health Department, Frederick",
+        "description": "Meg attended a meeting of the Federated Charities and Public Health Department of Frederick.<br><br>\"Outline Health Work of County.\" The Frederick Post, March 1, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4163032,
+          -77.4079514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Mar 18 - School Inspections, Jefferson School, Frederick\n",
+        "description": "Meg inspected the Academy building and Jefferson school.<br><br>\"Health Survey Schools Begin.\" March 18, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4127971,
+          -77.417008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Mar 8 - Talk at the Evangelical Reformed Church Altar Guild meeting, Frederick\n",
+        "description": "Meg spoke at the Evangelical Reformed Church Altar Guild meeting, describing the work of a public health nurse. \"Stressing the work in the schools of Frederick as an important phase of public health work, Miss Newman described the aims of the local health department in regard to clinics being held here, told of plans to hold a dental clinic, and gave a comprehensive general outline of the work in this section of the state.\"<br><br>\"Dental Clinic Is Considered.\" March 10, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4151552,
+          -77.4112999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 May 20 - Monocacy Club Annual Outing at Saubel's Inn, near Taneytown\n",
+        "description": "Meg attended the Monocacy Club Annual Outing.<br><br>\"125 Members And Guests On Annual Outing Given By Monocacy Club May 19.\" The News (Frederick, MD), May 20, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6578773,
+          -77.1744279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Nov 30 - Chest Clinic, Frederick",
+        "description": "Meg assisted at a Frederick chest clinic at the Courthouse.<br><br>\"Two Clinics Held.\" The Frederick Post, November 30, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4142688,
+          -77.4105409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Oct 13 - Health Address at the PTA of the Adamstown School\n",
+        "description": "Meg gave a health address at a special meeting of the PTA of Adamstown school.<br><br>\"P.T. Association Meets.\" The Frederick Post, October 13, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3115396,
+          -77.4753602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1926 Oct 15 - Maryland Social Service Club Meeting and Luncheon, Frederick\n",
+        "description": "Meg attended the meeting and luncheon of the Frederick branch of the Maryland Social Service Club.<br><br>\"Service Club to Dine Here Today.\" October 15, 1926."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4142688,
+          -77.4105409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "Meg's Home, Sabillasville\n",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7061301,
+          -77.4604797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "Newman Family Home, Waynesboro\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7610471,
+          -77.5827026
+        ]
+      }
+    }
+  ]
+}
