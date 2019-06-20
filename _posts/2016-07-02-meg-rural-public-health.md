@@ -4,7 +4,10 @@ title:  "Meg as a Rural Public Health Nurse"
 author: anna
 categories: [ Meg ]
 image: assets/images/meg-resume.jpg
+custom_css: leaflet
+custom_js: leaflet
 ---
+
 For this story, I want to turn my attention to Aunt [Meg]({{site.baseurl}}/meg), a lifelong public health nurse--a fact I know, in part, because I have a copy of her resume. The carefully typewritten document "from: Margaret E. Newman, R.N." carries the title "Memorandum of Public Health Training and Experiences" and lists Meg's public health education and work experience, with details about her responsibilities and achievements in each position. Meg had first trained in nursing in the early 1900s and worked as a private nurse for a family in the Waynesboro area before moving to New York City to work for the Henry Street Settlement House Visiting Nurse Service, an experience that I will return to in another post. For this post, however, I want to skip ahead--to the three years that Meg worked as a rural public health nurse in Frederick County, Maryland.
 
 According to her resume, from 1924 to 1927, Meg was a Senior Nurse in the Frederick County Public Health Association, and during this time, she:
@@ -16,6 +19,21 @@ As I started researching Meg's time working in Frederick County, the most valuab
 <p><iframe src="https://www.google.com/maps/d/embed?mid=1ccgS7WvuLFXFAhMhij0yU0SB_v4" width="800" height="480"></iframe></p>
 
 **Key**: *blue = health clinic; yellow = general visit; green = health talk; purple = school inspection; orange = professional meeting; pink = social engagement*
+
+<div id="map"></div>
+
+  <script>
+
+  var map = L.map('map').setView([42.35, -71.08], 13);
+
+  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+    {
+      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
+      maxZoom: 17,
+      minZoom: 9
+    }).addTo(map);
+
+  </script>
 
 The map shows that in Meg's first full year as a public health nurse, she mainly devoted her efforts to the northern section of Frederick County, which is confirmed by a Frederick News article from March 10, 1925:
 
