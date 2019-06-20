@@ -16,15 +16,28 @@
 
 <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 
-<link rel="stylesheet" href="/newman-aunts/assets/css/leaflet.css" />
-
-<script src="/newman-aunts/assets/js/leaflet.js"></script>
-
 <link href="/newman-aunts/assets/css/screen.css" rel="stylesheet">
 
 <link href="/newman-aunts/assets/css/main.css" rel="stylesheet">
 
+
+        
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+        
+    
+
+
+        
+        <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+        
+    
+
+<style>
+  #map { height: 100% }
+</style>
+
 </head>
+
 
 
 
@@ -204,13 +217,11 @@
 
 <p>As I started researching Meg’s time working in Frederick County, the most valuable sources I found were newspaper articles, which documented her contributions to improving the public’s health in many tiny towns scattered throughout western Maryland. To chart Meg’s travels throughout the county, I created a custom Google Map, with markers representing each public health event Meg was involved in, as documented in the newspapers.</p>
 
-<p><iframe src="https://www.google.com/maps/d/embed?mid=1ccgS7WvuLFXFAhMhij0yU0SB_v4" width="800" height="480"></iframe></p>
-
 <p><strong>Key</strong>: <em>blue = health clinic; yellow = general visit; green = health talk; purple = school inspection; orange = professional meeting; pink = social engagement</em></p>
 
-<div id="map"></div>
+<p><div id="map"></div>
 
-<script>
+  <script>
 
   var map = L.map('map').setView([42.35, -71.08], 13);
 
@@ -221,7 +232,7 @@
       minZoom: 9
     }).addTo(map);
 
-  </script>
+  </script></p>
 
 <p>The map shows that in Meg’s first full year as a public health nurse, she mainly devoted her efforts to the northern section of Frederick County, which is confirmed by a Frederick News article from March 10, 1925:</p>
 

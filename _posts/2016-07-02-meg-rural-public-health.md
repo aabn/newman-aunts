@@ -16,11 +16,9 @@ According to her resume, from 1924 to 1927, Meg was a Senior Nurse in the Freder
 
 As I started researching Meg's time working in Frederick County, the most valuable sources I found were newspaper articles, which documented her contributions to improving the public's health in many tiny towns scattered throughout western Maryland. To chart Meg's travels throughout the county, I created a custom Google Map, with markers representing each public health event Meg was involved in, as documented in the newspapers.
 
-<p><iframe src="https://www.google.com/maps/d/embed?mid=1ccgS7WvuLFXFAhMhij0yU0SB_v4" width="800" height="480"></iframe></p>
-
 **Key**: *blue = health clinic; yellow = general visit; green = health talk; purple = school inspection; orange = professional meeting; pink = social engagement*
 
-<div id="map"></div>
+<p><div id="map"></div>
 
   <script>
 
@@ -33,7 +31,7 @@ As I started researching Meg's time working in Frederick County, the most valuab
       minZoom: 9
     }).addTo(map);
 
-  </script>
+  </script></p>
 
 The map shows that in Meg's first full year as a public health nurse, she mainly devoted her efforts to the northern section of Frederick County, which is confirmed by a Frederick News article from March 10, 1925:
 
