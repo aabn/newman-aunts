@@ -24,6 +24,10 @@
 
 <script src="/newman-aunts/assets/js/leaflet.js"></script>
 
+<script src="/newman-aunts/assets/js/jquery.min.js"></script>
+
+<script src="/newman-aunts/assets/megdata.geojson"></script>
+
 <style>
   #map {
     height: 100%;
@@ -222,10 +226,9 @@
       minZoom: 5
     }).addTo(map);
 
-    $.getJSON("megdata.geojson",function(data){
-    // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data).addTo(map);
-  });
+    $.getJSON('/newman-aunts/assets/megdata.geojson",function(data) {
+      L.geoJson(data).addTo(map);
+    });
 
   </script></p>
 

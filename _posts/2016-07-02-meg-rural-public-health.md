@@ -29,10 +29,9 @@ As I started researching Meg's time working in Frederick County, the most valuab
       minZoom: 5
     }).addTo(map);
 
-    $.getJSON("megdata.geojson",function(data){
-    // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data).addTo(map);
-  });
+    $.getJSON('{{ site.baseurl }}/assets/megdata.geojson",function(data) {
+      L.geoJson(data).addTo(map);
+    });
 
   </script></p>
 
