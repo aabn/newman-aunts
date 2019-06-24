@@ -226,8 +226,11 @@
       minZoom: 5
     }).addTo(map);
 
-    $.getJSON('/newman-aunts/assets/megdata.geojson",function(data) {
-      L.geoJson(data).addTo(map);
+    $.getJSON('/newman-aunts/assets/megdata.geojson',function(data) {
+      L.geoJson(data, {
+      	onEachFeature: function (feature, layer) {
+      		layer.bindPopup('<p><b>' + feature.properties.Activity + ', ' + feature.properties.Town + '</b></p>' + '<p>' + feature.properties.Description + '</p>' + '<p><i>' + feature.properties.Article_Name + ', ' + feature.properties.Newspaper + '</i></p>');
+      		}}).addTo(map);
     });
 
   </script></p>

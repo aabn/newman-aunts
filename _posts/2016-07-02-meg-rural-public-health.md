@@ -29,8 +29,11 @@ As I started researching Meg's time working in Frederick County, the most valuab
       minZoom: 5
     }).addTo(map);
 
-    $.getJSON('{{ site.baseurl }}/assets/megdata.geojson",function(data) {
-      L.geoJson(data).addTo(map);
+    $.getJSON('{{ site.baseurl }}/assets/megdata.geojson',function(data) {
+      L.geoJson(data, {
+      	onEachFeature: function (feature, layer) {
+      		layer.bindPopup('<p><b>' + feature.properties.Activity + ', ' + feature.properties.Town + '</b></p>' + '<p>' + feature.properties.Description + '</p>' + '<p><i>' + feature.properties.Article_Name + ', ' + feature.properties.Newspaper + '</i></p>');
+      		}}).addTo(map);
     });
 
   </script></p>
