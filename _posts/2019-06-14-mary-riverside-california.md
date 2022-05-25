@@ -2,15 +2,15 @@
 layout: post
 title: "Mary and Riverside, California"
 author: anna
-categories: [ ]
+categories: [ Mary ]
 image: assets/images/book-pages.jpg
 ---
 
 A couple of months ago, I hopped into a temperamental rental car, drove forty minutes on a terrifyingly large freeway, and arrived in Riverside, California. My partner and I were on vacation in Southern California, a vacation we had planned around a conference she was attending in Anaheim. As soon as we decided that we would be going to the Los Angeles area, I knew that I wanted to plan a research trip to Riverside.
 
-Riverside is the distant town that my great-great-aunt Mary moved to in order to attend [library school]({{site.baseurl}}/2016-12-15-mary-riverside-library-service-school.md). After obtaining her degree, she worked at the library at the Citrus Experiment Station, located at the University of California at Riverside. I knew very few details about Mary's education and career, and sometimes I wondered how much of the story I had constructed of her life was even true, since there was little to no paper trail to rely on. I decided to visit the archives at the Riverside Public Library and UC Riverside, to see what fragments of Mary's life story I could find there.
+Riverside is the distant town that my great-great-aunt Mary moved to in order to attend [library school]({{site.baseurl}}/mary.2016-12-15-mary-riverside-library-service-school). After obtaining her degree, she worked at the library at the Citrus Experiment Station, located at the University of California at Riverside. I knew very few details about Mary's education and career, and sometimes I wondered how much of the story I had constructed of her life was even true, since there was little to no paper trail to rely on. I decided to visit the archives at the Riverside Public Library and UC Riverside, to see what fragments of Mary's life story I could find there.
 
-I arrived at the Riverside Public Library just as it was opening. It is no longer the [ornate, eye-catching building of Mary's time]({{site.baseurl}}/2016-12-15-mary-riverside-library-service-school.md), now a plain, tan building with a pagoda on the lawn out front. I made my way down to the local history section, and the local history specialist showed me to a study room, where several carts of boxes waited for me, the [Riverside Library Service School collection](https://www.riversideca.gov/library/history_aids_libraryschool.asp).
+I arrived at the Riverside Public Library just as it was opening. It is no longer the [ornate, eye-catching building of Mary's time]({{site.baseurl}}/mary/2016-12-15-mary-riverside-library-service-school), now a plain, tan building with a pagoda on the lawn out front. I made my way down to the local history section, and the local history specialist showed me to a study room, where several carts of boxes waited for me, the [Riverside Library Service School collection](https://www.riversideca.gov/library/history_aids_libraryschool.asp).
 
 ![Riverside Public Library, Riverside, California, February 2019]({{site.baseurl}}/assets/images/riverside-library.jpg)
 
