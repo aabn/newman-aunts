@@ -2,7 +2,7 @@
 layout: post
 title:  "Aunt Mary and the Burgess Boardinghouse"
 author: anna
-categories: [ ]
+categories: [ Mary ]
 image: assets/images/carolcroft.jpg
 ---
 Last week, I found myself in Towson, Maryland, with a couple of hours to kill and a family story to pursue.
