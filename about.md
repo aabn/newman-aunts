@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-comments: true
+comments: false
 ---
 
 The Newman Aunts project studies the lives of six sisters who came of age during the Progressive Era, through the stories that have been preserved in the collective memory of one family.

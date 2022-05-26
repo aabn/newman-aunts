@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Newmans
-comments: true
+comments: false
 ---
 
 The story of the Newman women begins with their parents, Jacob Frieze Newman and Emma Stouffer Frantz. Jacob was originally from Maryland, but after his father died and his mother remarried, he journeyed to Waynesboro, a small town in southern Pennsylvania, to learn the miller's trade. There, he met and married Emma Frantz, the daughter of a miller herself, and one of the descendants of a prominent Mennonite family.
